@@ -1510,3 +1510,73 @@ Script Stack (0 frames):
 [2020.05.06-22.38.51:765][261]LogPackageName: Warning: Asset path "Fire_Fortress.SM.SM_Fire_Furnace_01" could not be resolved.
 [2020.05.06-22.54.23:561][604]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2020.05.06-22.54.27:621][  5]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.14.27:096][685]LogSlate: Took 0.011607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-23.14.27:144][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.06-23.14.28:390][685]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0434 seconds. Added 121 classes and 0 folders.
+[2020.05.06-23.14.31:131][685]LogSlate: Took 0.009570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.06-23.14.31:624][686]LogSlate: Took 0.009550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.06-23.14.35:158][859]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.05.06-23.14.39:544][ 62]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.06-23.14.39:550][ 62]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.06-23.14.39:581][ 62]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-23.14.39:583][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-23.15.52:485][179]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.06-23.15.58:602][436]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.15.58:602][436]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.16.02:630][647]LogSlate: Took 0.009429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.06-23.16.11:544][145]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.06-23.16.12:489][145]LogUObjectHash: Compacting FUObjectHashTables data took  28.52ms
+[2020.05.06-23.16.20:131][601]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.06-23.16.20:137][601]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.06-23.16.20:154][601]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-23.16.20:154][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-23.16.24:622][ 46]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.16.29:279][503]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.16.29:428][510]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.16.30:389][566]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.16.30:772][600]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.06-23.17.53:402][ 66]BlueprintLog: New page: Compile RPGHUD
+[2020.05.06-23.17.53:990][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   9.78ms
+[2020.05.06-23.18.20:989][584]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.06-23.18.35:239][381]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.06-23.18.45:446][779]BlueprintLog: New page: Compile RPGHUD
+[2020.05.06-23.18.45:544][779]LogUObjectHash: Compacting FUObjectHashTables data took  10.54ms
+[2020.05.06-23.19.27:672][990]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.06-23.19.30:908][169]BlueprintLog: New page: Compile RPGHUD
+[2020.05.06-23.19.30:989][169]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2020.05.06-23.20.38:355][962]BlueprintLog: New page: Compile RPGHUD
+[2020.05.06-23.20.38:439][962]LogUObjectHash: Compacting FUObjectHashTables data took   9.35ms
+[2020.05.06-23.21.28:750][ 18]BlueprintLog: New page: Compile RPGHUD
+[2020.05.06-23.21.28:832][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2020.05.06-23.21.37:412][210]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.06-23.21.37:419][210]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.06-23.21.37:434][210]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-23.21.37:435][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-23.21.37:477][210]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-23.21.37:477][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-23.21.40:890][556]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.06-23.22.18:454][647]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.06-23.22.19:023][647]LogUObjectHash: Compacting FUObjectHashTables data took  10.35ms
+[2020.05.06-23.22.24:148][958]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.06-23.22.24:155][958]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.06-23.22.24:170][958]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-23.22.24:170][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-23.22.37:871][363]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.37:871][363]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.37:871][363]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.37:871][363]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.38:517][363]EditorErrors: Warning: No assets to check in!
+[2020.05.06-23.22.41:891][712]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.42:057][712]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2020.05.06-23.22.42:602][712]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap27C592BE452C3AB750B364B684B72659.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.06-23.22.42:757][712]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.43:043][712]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltDataD96BA77C48313BD73A5885AD6187EBEE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.06-23.22.43:077][712]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-23.22.43:077][712]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.06-23.22.43:077][712]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.06-23.22.43:156][718]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.45:455][945]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.45:455][945]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.45:455][945]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.45:455][945]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.22.45:877][945]EditorErrors: Warning: No assets to check in!
