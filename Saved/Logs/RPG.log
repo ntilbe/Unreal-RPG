@@ -1204,3 +1204,227 @@ Script Stack (0 frames):
 [2020.05.06-20.44.00:326][795]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
 [2020.05.06-20.44.00:658][796]LogPackageName: SearchForPackageOnDisk took   0.286s, but failed to resolve S_ClothTarps_03.
 [2020.05.06-20.44.00:658][796]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-21.32.37:488][485]LogPackageName: Warning: Asset path "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.37:490][485]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.38:196][485]LogPackageName: Warning: Asset path "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.38:196][485]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.38:196][485]LogPackageName: SearchForPackageOnDisk took   0.706s to resolve SM_Snow_Snow.
+[2020.05.06-21.32.38:219][486]LogPackageName: SearchForPackageOnDisk took   0.682s, but failed to resolve SM_Snow_Snow.
+[2020.05.06-21.32.38:219][486]LogPackageName: Warning: Asset path "SM_Snow_Snow" could not be resolved.
+[2020.05.06-21.32.46:284][510]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.46:284][510]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.46:284][510]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.46:284][510]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.46:652][510]LogPackageName: SearchForPackageOnDisk took   0.365s, but failed to resolve Env_Ice_Foliage.
+[2020.05.06-21.32.46:653][510]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" could not be resolved.
+[2020.05.06-21.32.46:653][510]LogPackageName: SearchForPackageOnDisk took   0.369s, but failed to resolve Env_Ice_Foliage.
+[2020.05.06-21.32.46:653][510]LogPackageName: Warning: Asset path "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" could not be resolved.
+[2020.05.06-21.32.49:680][520]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.49:680][520]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.49:681][520]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.49:681][520]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.50:064][520]LogPackageName: SearchForPackageOnDisk took   0.382s, but failed to resolve JW_Ice_Mountain.
+[2020.05.06-21.32.50:065][520]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.06-21.32.50:065][520]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.50:065][520]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.50:065][520]LogPackageName: SearchForPackageOnDisk took   0.384s, but failed to resolve JW_Ice_Mountain.
+[2020.05.06-21.32.50:065][520]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.06-21.32.50:422][523]LogPackageName: SearchForPackageOnDisk took   0.358s, but failed to resolve JW_Ice_Mountain.
+[2020.05.06-21.32.50:422][523]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.06-21.32.50:422][523]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.50:423][523]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.50:756][523]LogPackageName: SearchForPackageOnDisk took   0.323s, but failed to resolve JW_Ice_Mountain.
+[2020.05.06-21.32.50:756][523]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.06-21.32.50:756][523]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.50:756][523]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.51:109][523]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.51:109][523]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.51:109][523]LogPackageName: SearchForPackageOnDisk took   0.353s, but failed to resolve Exo_Deco01.
+[2020.05.06-21.32.51:109][523]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2020.05.06-21.32.51:467][526]LogPackageName: SearchForPackageOnDisk took   0.354s, but failed to resolve Exo_Deco01.
+[2020.05.06-21.32.51:467][526]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2020.05.06-21.32.51:467][526]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.51:467][526]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.51:802][527]LogPackageName: SearchForPackageOnDisk took   0.337s, but failed to resolve Exo_Deco01.
+[2020.05.06-21.32.51:802][527]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2020.05.06-21.32.51:803][527]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.51:803][527]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.52:137][527]LogPackageName: SearchForPackageOnDisk took   0.336s, but failed to resolve Exo_Deco01.
+[2020.05.06-21.32.52:137][527]LogPackageName: Warning: Asset path "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2020.05.06-21.32.52:138][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.52:138][527]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.52:588][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.52:588][527]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.52:588][527]LogPackageName: SearchForPackageOnDisk took   0.436s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.52:588][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
+[2020.05.06-21.32.52:588][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.52:588][527]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.52:588][527]LogPackageName: SearchForPackageOnDisk took   0.450s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.52:588][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
+[2020.05.06-21.32.52:589][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.52:589][527]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.52:975][527]LogPackageName: SearchForPackageOnDisk took   0.384s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.52:975][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
+[2020.05.06-21.32.52:975][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.52:975][527]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.52:975][527]LogPackageName: SearchForPackageOnDisk took   0.386s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.52:975][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
+[2020.05.06-21.32.52:975][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.52:975][527]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.53:394][527]LogPackageName: SearchForPackageOnDisk took   0.419s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.53:394][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2020.05.06-21.32.53:395][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.53:395][527]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.53:916][527]LogPackageName: SearchForPackageOnDisk took   0.427s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.53:916][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2020.05.06-21.32.53:916][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.53:916][527]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.53:916][527]LogPackageName: SearchForPackageOnDisk took   0.520s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.53:916][527]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2020.05.06-21.32.53:997][528]LogPackageName: SearchForPackageOnDisk took   0.572s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.53:997][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2020.05.06-21.32.53:997][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.53:997][528]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.53:997][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.53:997][528]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.54:609][528]LogPackageName: SearchForPackageOnDisk took   0.613s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.54:609][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
+[2020.05.06-21.32.54:609][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.54:609][528]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.54:609][528]LogPackageName: SearchForPackageOnDisk took   0.612s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.54:609][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2020.05.06-21.32.54:610][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.54:610][528]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.54:989][528]LogPackageName: SearchForPackageOnDisk took   0.376s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.54:989][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
+[2020.05.06-21.32.54:989][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.54:989][528]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.54:989][528]LogPackageName: SearchForPackageOnDisk took   0.379s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.54:989][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
+[2020.05.06-21.32.54:990][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.54:990][528]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.55:376][528]LogPackageName: SearchForPackageOnDisk took   0.405s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.55:376][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2020.05.06-21.32.55:376][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.55:376][528]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.55:376][528]LogPackageName: SearchForPackageOnDisk took   0.386s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.55:376][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
+[2020.05.06-21.32.55:376][528]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.55:376][528]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.55:763][528]LogPackageName: SearchForPackageOnDisk took   0.371s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.55:763][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2020.05.06-21.32.55:763][528]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.55:763][528]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.55:763][528]LogPackageName: SearchForPackageOnDisk took   0.386s, but failed to resolve Env_Ice_RuinedWalls001.
+[2020.05.06-21.32.55:763][528]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" could not be resolved.
+[2020.05.06-21.32.56:238][531]LogPackageName: SearchForPackageOnDisk took   0.340s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.56:238][531]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2020.05.06-21.32.56:238][531]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.56:238][531]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.56:569][532]LogPackageName: SearchForPackageOnDisk took   0.351s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.56:569][532]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
+[2020.05.06-21.32.56:569][532]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.56:569][532]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.56:909][533]LogPackageName: SearchForPackageOnDisk took   0.358s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.56:909][533]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
+[2020.05.06-21.32.56:909][533]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.56:909][533]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.57:243][534]LogPackageName: SearchForPackageOnDisk took   0.357s, but failed to resolve Env_Ice_RuinedWalls001.
+[2020.05.06-21.32.57:243][534]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" could not be resolved.
+[2020.05.06-21.32.57:243][534]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.57:243][534]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.57:578][535]LogPackageName: SearchForPackageOnDisk took   0.326s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.57:578][535]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
+[2020.05.06-21.32.57:578][535]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.57:578][535]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.57:919][536]LogPackageName: SearchForPackageOnDisk took   0.351s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.57:919][536]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
+[2020.05.06-21.32.57:919][536]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.57:919][536]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.58:261][537]LogPackageName: SearchForPackageOnDisk took   0.339s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.58:262][537]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2020.05.06-21.32.58:262][537]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.58:262][537]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.58:587][538]LogPackageName: SearchForPackageOnDisk took   0.354s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.58:587][538]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2020.05.06-21.32.58:587][538]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.58:587][538]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.58:926][539]LogPackageName: SearchForPackageOnDisk took   0.338s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.58:927][539]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2020.05.06-21.32.58:927][539]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.58:927][539]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.59:261][540]LogPackageName: SearchForPackageOnDisk took   0.326s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.59:261][540]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
+[2020.05.06-21.32.59:261][540]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.59:261][540]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.59:598][541]LogPackageName: SearchForPackageOnDisk took   0.365s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.32.59:598][541]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
+[2020.05.06-21.32.59:598][541]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.59:598][541]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.32.59:937][542]LogPackageName: SearchForPackageOnDisk took   0.332s, but failed to resolve Env_Ice_RuinedWalls001.
+[2020.05.06-21.32.59:938][542]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" could not be resolved.
+[2020.05.06-21.32.59:938][542]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.32.59:938][542]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.00:270][543]LogPackageName: SearchForPackageOnDisk took   0.350s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.33.00:270][543]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2020.05.06-21.33.00:270][543]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.00:270][543]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.00:935][545]LogPackageName: SearchForPackageOnDisk took   0.354s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.33.00:935][545]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
+[2020.05.06-21.33.00:935][545]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.00:935][545]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.01:268][546]LogPackageName: SearchForPackageOnDisk took   0.329s, but failed to resolve Env_Ice_Rocky.
+[2020.05.06-21.33.01:268][546]LogPackageName: Warning: Asset path "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
+[2020.05.06-21.33.01:268][546]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.01:268][546]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.01:607][547]LogPackageName: SearchForPackageOnDisk took   0.328s, but failed to resolve Env_Ice_RuinedWalls001.
+[2020.05.06-21.33.01:607][547]LogPackageName: Warning: Asset path "Env_Ice_RuinedWalls001" could not be resolved.
+[2020.05.06-21.33.06:981][562]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.06:981][562]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.07:340][562]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.07:341][562]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.07:341][562]LogPackageName: SearchForPackageOnDisk took   0.360s to resolve m_FogSheet_02.
+[2020.05.06-21.33.07:361][564]LogPackageName: SearchForPackageOnDisk took   0.362s to resolve m_FogSheet_02.
+[2020.05.06-21.33.07:361][564]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.07:361][564]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.07:704][565]LogPackageName: SearchForPackageOnDisk took   0.333s to resolve m_FogSheet_02.
+[2020.05.06-21.33.10:702][573]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.10:702][573]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.11:083][573]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.11:084][573]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.11:084][573]LogPackageName: SearchForPackageOnDisk took   0.381s, but failed to resolve Env_ALL_Artifacts.
+[2020.05.06-21.33.11:084][573]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2020.05.06-21.33.11:085][573]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.11:085][573]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.11:517][573]LogPackageName: SearchForPackageOnDisk took   0.387s, but failed to resolve Env_ALL_Artifacts.
+[2020.05.06-21.33.11:517][573]LogPackageName: Warning: set path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-21.33.11:517][573]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.11:517][573]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.11:517][573]LogPackageName: SearchForPackageOnDisk took   0.432s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-21.33.11:517][573]LogPackageName: SearchForPackageOnDisk took   0.377s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-21.33.11:518][573]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-21.33.11:518][573]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-21.33.11:523][574]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.11:523][574]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.12:207][577]LogPackageName: SearchForPackageOnDisk took   0.373s, but failed to resolve Env_ALL_Artifacts.
+[2020.05.06-21.33.12:207][577]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2020.05.06-21.33.12:207][577]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.12:207][577]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.12:541][578]LogPackageName: SearchForPackageOnDisk took   0.363s, but failed to resolve Env_ALL_Artifacts.
+[2020.05.06-21.33.12:541][578]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2020.05.06-21.33.12:541][578]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.12:541][578]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.12:882][579]LogPackageName: SearchForPackageOnDisk took   0.346s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-21.33.12:882][579]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-21.33.12:882][579]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.12:882][579]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.13:209][580]LogPackageName: SearchForPackageOnDisk took   0.346s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-21.33.13:209][580]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-21.33.13:209][580]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.13:209][580]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.13:549][581]LogPackageName: SearchForPackageOnDisk took   0.369s, but failed to resolve Env_ALL_Artifacts.
+[2020.05.06-21.33.13:549][581]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2020.05.06-21.33.13:549][581]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-21.33.13:549][581]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-21.33.13:883][582]LogPackageName: SearchForPackageOnDisk took   0.359s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-21.33.13:884][582]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
