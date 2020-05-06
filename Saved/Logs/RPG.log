@@ -1184,3 +1184,23 @@ Script Stack (0 frames):
 [2020.05.06-20.33.37:416][944]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
 [2020.05.06-20.33.37:752][945]LogPackageName: SearchForPackageOnDisk took   0.307s, but failed to resolve Env_ALL_Artifacts.
 [2020.05.06-20.33.37:752][945]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2020.05.06-20.43.59:294][791]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-20.43.59:295][791]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-20.43.59:623][791]LogPackageName: Warning: SearchForPackageOnDisk took   0.315s, but failed to resolve S_ClothTarps_03. Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolv
+[2020.05.06-20.43.59:623][791]LogPackageName: Warning: d.
+[2020.05.06-20.43.59:623][791]LogPackageName: SearchForPackageOnDisk took   0.328s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-20.43.59:623][791]LogPackageName: SearchForPackageOnDisk took   0.315s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-20.43.59:623][791]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-20.43.59:623][791]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-20.43.59:631][792]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-20.43.59:631][792]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-20.43.59:985][794]LogPackageName: SearchForPackageOnDisk took   0.299s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-20.43.59:985][794]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-20.43.59:985][794]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-20.43.59:985][794]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-20.44.00:326][795]LogPackageName: SearchForPackageOnDisk took   0.289s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-20.44.00:326][795]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.05.06-20.44.00:326][795]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-20.44.00:326][795]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-20.44.00:658][796]LogPackageName: SearchForPackageOnDisk took   0.286s, but failed to resolve S_ClothTarps_03.
+[2020.05.06-20.44.00:658][796]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
