@@ -6276,3 +6276,192 @@ Script Stack (0 frames):
 [2020.05.06-23.38.51:456][837]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.06-23.38.51:457][837]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.05.06-23.38.51:530][840]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.08:576][492]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.34:918][405]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.35:033][409]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.35:220][419]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.35:413][428]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.35:543][434]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.35:750][442]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.35:770][443]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.35:816][445]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.35:894][449]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.35:912][450]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.36:030][454]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.36:054][455]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.36:079][456]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.36:099][457]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.36:119][458]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.36:141][459]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.36:192][461]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.40.36:211][462]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.41.19:583][661]BlueprintLog: New page: Compile Eve_BP
+[2020.05.06-23.41.19:587][661]LogBlueprint: Warning: [Compiler Eve_BP] Entry node  Eve_States  is not connected to state
+[2020.05.06-23.41.19:588][661]LogBlueprint: Warning: [Compiler Eve_BP] There was no entry state connection in  Eve_States
+[2020.05.06-23.41.20:142][661]LogUObjectHash: Compacting FUObjectHashTables data took   8.74ms
+[2020.05.06-23.42.28:177][613]BlueprintLog: New page: Compile Eve_BP
+[2020.05.06-23.42.28:184][613]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walk/Running  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.42.28:185][613]LogBlueprint: Warning: [Compiler Eve_BP] Walk/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.42.28:636][613]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2020.05.06-23.42.41:578][282]BlueprintLog: New page: Compile Eve_BP
+[2020.05.06-23.42.41:584][282]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walk/Running  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.42.41:584][282]LogBlueprint: Warning: [Compiler Eve_BP] Walk/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.42.42:017][282]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2020.05.06-23.43.24:716][923]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.05.06-23.43.25:871][986]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.26:036][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.30:722][299]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.30:871][303]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.31:938][368]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.31:960][369]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.32:644][399]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Eve_BS.Eve_BS
+[2020.05.06-23.43.32:651][399]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.06-23.43.32:686][399]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.06-23.43.33:128][399]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.06-23.43.34:111][443]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.43.38:155][678]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.44.05:675][990]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.44.05:760][990]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BS275AAD22455607118A3EA7B9FE212105.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset'
+[2020.05.06-23.44.05:945][990]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.44.05:945][990]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.44.06:000][990]AssetCheck: New page: Asset Save: Eve_BS
+[2020.05.06-23.44.06:000][990]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Eve_BS.Eve_BS
+[2020.05.06-23.44.06:108][993]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.44.29:694][183]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.44.31:292][267]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.44.31:383][267]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BS0B467F3649354C3AAF7E37AC62C7F50C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset'
+[2020.05.06-23.44.31:420][267]AssetCheck: New page: Asset Save: Eve_BS
+[2020.05.06-23.44.31:420][267]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Eve_BS.Eve_BS
+[2020.05.06-23.44.31:519][271]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.00:128][745]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.00:283][753]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.00:420][760]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.00:846][782]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.00:910][785]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.00:979][788]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.01:079][793]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.01:912][836]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.02:055][843]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.02:215][851]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.02:340][857]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.02:441][862]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.02:961][888]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.03:061][893]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.03:162][898]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.03:302][905]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.03:771][929]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.03:816][931]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.03:877][934]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.04:034][942]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.04:427][962]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.45.21:027][839]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.46.19:945][580]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.46.20:031][580]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BSD24C1EB04DA8DB91428872A4E381F191.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset'
+[2020.05.06-23.46.20:068][580]AssetCheck: New page: Asset Save: Eve_BS
+[2020.05.06-23.46.20:068][580]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Eve_BS.Eve_BS
+[2020.05.06-23.46.20:148][582]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.46.29:869][ 67]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.46.52:511][171]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.46.52:596][171]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BS2AD3630D4973DB17D6F143ADE45BF4FF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset'
+[2020.05.06-23.46.52:635][171]AssetCheck: New page: Asset Save: Eve_BS
+[2020.05.06-23.46.52:635][171]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Eve_BS.Eve_BS
+[2020.05.06-23.46.52:726][174]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.00:081][540]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.00:111][541]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.00:163][543]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.00:187][544]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.01:157][591]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.01:226][594]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.01:277][596]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.01:297][597]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.01:664][614]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.01:714][616]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.01:736][617]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.01:757][618]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.05:300][792]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.26:829][815]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.26:920][815]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BS33A3DE5F49EB247E77385FA475821BC0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset'
+[2020.05.06-23.47.26:958][815]AssetCheck: New page: Asset Save: Eve_BS
+[2020.05.06-23.47.26:958][815]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Eve_BS.Eve_BS
+[2020.05.06-23.47.27:045][817]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.34:401][187]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.39:702][462]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.39:768][464]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.39:839][467]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.39:857][468]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.40:109][480]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.40:173][483]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.40:193][484]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.40:214][485]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.40:488][499]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.47.40:488][499]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.06-23.48.50:754][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2020.05.06-23.48.50:760][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.076
+[2020.05.06-23.48.50:760][ 46]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character/Eve_BP] ([1] browsable assets)...
+[2020.05.06-23.48.50:784][ 46]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP]
+[2020.05.06-23.48.50:784][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character/Eve_BP]
+[2020.05.06-23.48.50:844][ 46]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BP_Auto266C6B4D74D051F63C263D490381E536B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/Eve_BP_Auto2.uasset'
+[2020.05.06-23.48.50:845][ 46]LogFileHelpers: Auto-saving content packages took 0.085
+[2020.05.06-23.49.44:183][447]BlueprintLog: New page: Compile Eve_BP
+[2020.05.06-23.49.44:192][447]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walk/Running  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.49.44:192][447]LogBlueprint: Warning: [Compiler Eve_BP] Walk/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.49.44:621][447]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2020.05.06-23.52.47:864][695]BlueprintLog: New page: Compile Eve_BP
+[2020.05.06-23.52.47:872][695]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walk/Running  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.52.47:872][695]LogBlueprint: Warning: [Compiler Eve_BP] Walk/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.52.48:322][695]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2020.05.06-23.54.25:589][662]BlueprintLog: New page: Compile Eve_BP
+[2020.05.06-23.54.25:597][662]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walk/Running  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.54.25:598][662]LogBlueprint: Warning: [Compiler Eve_BP] Walk/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.05.06-23.54.26:041][662]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.05.06-23.59.02:141][539]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2020.05.06-23.59.02:144][539]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.082
+[2020.05.06-23.59.02:145][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character/Eve_BP] ([1] browsable assets)...
+[2020.05.06-23.59.02:198][539]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP]
+[2020.05.06-23.59.02:198][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character/Eve_BP]
+[2020.05.06-23.59.02:277][539]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BP_Auto3FFAA53574B19B711A1B2E9B60DE34553.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/Eve_BP_Auto3.uasset'
+[2020.05.06-23.59.02:279][539]LogFileHelpers: Auto-saving content packages took 0.135
+[2020.05.07-00.00.44:951][134]BlueprintLog: New page: Compile Eve_BP
+[2020.05.07-00.00.44:959][134]LogBlueprint: Warning: [Compiler Eve_BP] Walk/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.05.07-00.00.45:398][134]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2020.05.07-00.00.47:234][210]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.00.47:353][210]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BPF4FDABF5410C6DDFAF08048F1AA95715.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset'
+[2020.05.07-00.00.47:527][210]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.00.47:527][210]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.00.47:575][210]AssetCheck: New page: Asset Save: Eve_BP
+[2020.05.07-00.00.47:575][210]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP
+[2020.05.07-00.00.47:666][213]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.01.05:778][681]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.01.39:866][195]BlueprintLog: New page: Compile Eve_BP
+[2020.05.07-00.01.40:328][195]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2020.05.07-00.01.48:675][398]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.01.48:798][398]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BPF6637E664C28FA05B51BEA8D4D25B761.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset'
+[2020.05.07-00.01.48:833][398]AssetCheck: New page: Asset Save: Eve_BP
+[2020.05.07-00.01.48:833][398]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP
+[2020.05.07-00.01.48:926][402]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.01.50:300][477]LogSlate: Window 'Eve_BS' being destroyed
+[2020.05.07-00.01.50:305][477]LogSlate: Window 'Eve_BS' being destroyed
+[2020.05.07-00.01.50:345][477]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.01.50:345][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.01.50:352][477]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.01.50:352][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.01.50:581][477]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.01.50:581][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.01.50:604][477]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.01.50:605][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.01.50:817][477]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.01.50:817][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
