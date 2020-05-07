@@ -6601,3 +6601,1038 @@ Script Stack (0 frames):
 [2020.05.07-00.17.22:508][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.05.07-00.17.22:774][961]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
 [2020.05.07-00.17.22:774][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.17.53:988][188]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.17.55:456][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.17.56:277][275]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.18.50:974][364]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.18.51:549][364]LogUObjectHash: Compacting FUObjectHashTables data took  12.09ms
+[2020.05.07-00.18.55:187][375]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.18.55:320][375]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonCharacterEFE966754DA80521B1C6E095B4477D39.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.07-00.18.55:359][375]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.07-00.18.55:359][375]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.18.55:449][378]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.18.56:601][425]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.18.56:607][425]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.18.56:627][425]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.18.56:627][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.18.58:317][518]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.07-00.18.58:378][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.18.58:417][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.07-00.18.58:490][518]PIE: New page: PIE session: ThirdPersonExampleMap (May 6, 2020, 4:18:58 PM)
+[2020.05.07-00.18.58:553][518]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.07-00.18.58:582][518]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.07-00.18.58:584][518]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.18.58:632][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048298s)
+[2020.05.07-00.18.58:639][518]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.07-00.18.58:647][518]LogPlayLevel: PIE: World Init took: (0.014610s)
+[2020.05.07-00.18.58:647][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.063497s)
+[2020.05.07-00.18.58:720][518]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2020.05.07-00.18.58:737][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.07-00.18.58:737][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.07-00.18.58:737][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.07-00.18.58:737][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.07-00.18.58:737][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.07-00.18.58:737][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.07-00.18.58:738][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.07-00.18.58:738][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.07-00.18.58:742][518]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.07-00.18.58:742][518]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.07-00.18.58:767][518]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.07-00.18.58:767][518]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.07-00.18.58:767][518]LogAudioMixer: Display: Is Default: Yes
+[2020.05.07-00.18.58:767][518]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.07-00.18.58:767][518]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.07-00.18.58:767][518]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.07-00.18.58:767][518]LogAudioMixer: Display: Channel Order:
+[2020.05.07-00.18.58:767][518]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.07-00.18.58:767][518]LogAudioMixer: Display: 1: FrontRight
+[2020.05.07-00.18.58:784][518]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.07-00.18.58:796][518]LogInit: FAudioDevice initialized.
+[2020.05.07-00.18.58:920][518]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales': Can't find file.
+[2020.05.07-00.18.58:920][518]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales': Can't find file.
+[2020.05.07-00.18.58:921][518]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/RPGHUD': Can't find file.
+[2020.05.07-00.18.58:921][518]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/RPGHUD': Can't find file.
+[2020.05.07-00.18.58:921][518]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales': Can't find file.
+[2020.05.07-00.18.58:922][518]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales': Can't find file.
+[2020.05.07-00.18.58:922][518]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/RPGHUD': Can't find file.
+[2020.05.07-00.18.58:922][518]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/RPGHUD': Can't find file.
+[2020.05.07-00.18.58:933][518]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.07-00.18.58:939][518]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.06-20.18.58
+[2020.05.07-00.18.58:941][518]LogWorld: Bringing up level for play took: 0.006764
+[2020.05.07-00.18.58:945][518]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.05.07-00.18.58:998][518]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 20 classes and 0 folders.
+[2020.05.07-00.18.59:024][518]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.305
+[2020.05.07-00.18.59:024][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.19.05:471][125]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.19.05:471][125]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.19.05:473][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.19.05:474][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.19.05:474][125]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.19.05:475][125]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.19.05:476][125]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.19.05:477][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.19.05:486][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.07-00.19.05:486][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.19.05:499][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.19.05:559][125]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.19.05:564][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.19.05:713][125]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2020.05.07-00.19.05:759][126]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.05.07-00.19.08:256][324]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.08:422][324]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.05.07-00.19.08:826][324]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMapB1DB0CB140694C3E8A472EACB804C7B5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.07-00.19.08:972][324]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.09:140][324]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltData85CDDBFA4C9A9B71299CD5B2BF308759.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.07-00.19.09:170][324]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.07-00.19.09:170][324]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.07-00.19.09:170][324]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.07-00.19.09:257][328]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.40:304][296]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.40:708][320]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Eve_BS.Eve_BS
+[2020.05.07-00.19.40:720][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.07-00.19.40:834][320]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.07-00.19.41:313][320]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.07-00.19.42:410][364]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.42:410][364]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.47:075][601]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.48:975][686]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.49:137][686]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_BS72EF468549405C32D503778569C98C05.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset'
+[2020.05.07-00.19.49:184][686]AssetCheck: New page: Asset Save: Eve_BS
+[2020.05.07-00.19.49:184][686]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Eve_BS.Eve_BS
+[2020.05.07-00.19.49:265][689]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.51:805][820]LogSlate: Window 'Eve_BS' being destroyed
+[2020.05.07-00.19.51:810][820]LogSlate: Window 'Eve_BS' being destroyed
+[2020.05.07-00.19.51:811][820]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.19.51:811][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.19.52:066][820]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.19.52:066][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.19.53:905][992]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.54:016][992]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2020.05.07-00.19.54:423][992]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap75A968394EC071D500D6D8ADCB63B31F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.07-00.19.54:587][992]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.19.54:737][992]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltDataDEEF6B454413B00CBF4A50A438A558C2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.07-00.19.54:769][992]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.07-00.19.54:769][992]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.07-00.19.54:769][992]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.07-00.19.54:843][996]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.21.32:574][207]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.21.33:095][252]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.21.59:839][380]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.21.59:845][380]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.21.59:846][380]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.21.59:846][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.22.13:402][910]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.14:318][972]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.16:116][ 35]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.17:124][ 38]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.18:126][ 41]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.19:126][ 44]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.20:135][ 47]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.21:141][ 50]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.22:154][ 53]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.23:161][ 56]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.24:161][ 59]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.25:182][ 62]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.26:190][ 65]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.27:193][ 68]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.27:635][ 73]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.28:656][136]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.30:300][186]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.31:330][189]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.31:741][217]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.32:753][284]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.33:801][354]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.34:776][420]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.35:785][490]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.36:792][555]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.37:790][622]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.38:100][628]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.38:806][667]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.40:696][713]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.41:704][716]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.42:721][719]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.44:043][723]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.45:385][727]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.46:724][731]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.47:731][734]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.48:214][740]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.49:215][804]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.50:221][854]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.51:211][918]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.52:230][988]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.53:263][ 57]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.54:235][122]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.55:253][192]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.56:246][260]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.57:258][330]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.58:273][400]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.22.59:280][470]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.00:282][539]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.01:289][608]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.02:298][678]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.03:298][741]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.04:314][810]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.05:322][879]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.06:347][950]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.07:333][ 19]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.08:347][ 90]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.09:355][153]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.10:371][222]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.12:174][236]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.13:177][239]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.14:177][242]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.15:511][246]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.16:513][249]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.17:513][252]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.18:516][255]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.19:528][258]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.20:535][261]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.21:539][264]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.22:540][267]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.23:546][270]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.24:552][273]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.25:557][276]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.26:559][279]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.27:892][283]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.29:233][287]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.30:238][290]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.31:241][293]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.31:679][313]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.32:683][380]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.33:708][451]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.34:707][520]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.35:717][590]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.36:727][660]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.37:734][730]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.38:767][795]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.39:739][861]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.40:819][923]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.41:851][982]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.42:829][ 25]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.43:838][ 81]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.44:830][135]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.45:861][200]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.46:842][264]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.47:859][330]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.48:868][396]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.49:905][465]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.50:898][530]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.51:881][593]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.52:913][661]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.53:903][727]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.54:915][795]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.55:938][863]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.56:924][924]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.57:931][983]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.58:926][ 48]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.23.59:951][116]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.00:970][182]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.02:006][250]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.02:976][313]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.03:973][370]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.04:998][436]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.06:003][502]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.07:007][569]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.08:020][637]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.09:056][704]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.10:032][761]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.11:021][824]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.12:028][891]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.13:037][958]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.14:064][ 25]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.15:063][ 92]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.16:065][159]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.17:079][226]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.18:783][274]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.19:795][277]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.20:803][280]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.21:811][283]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.22:817][286]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.23:826][289]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.24:830][292]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.25:831][295]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.26:833][298]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.27:847][301]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.28:853][304]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.29:859][307]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.30:864][310]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.31:621][314]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.32:312][353]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.33:309][417]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.34:322][484]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.35:365][553]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.36:356][619]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.37:355][676]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.38:426][724]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.39:461][790]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.40:435][853]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.41:455][920]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.42:486][988]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.43:486][ 53]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.44:493][119]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.45:505][183]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.46:518][243]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.48:390][301]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.49:394][304]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.50:399][307]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.51:399][310]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.52:396][313]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.24.52:441][316]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.07-00.24.52:448][316]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.07-00.24.58:663][981]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.25.31:352][409]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.26.47:983][611]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::LessEqual_FloatFloat' [Element not found.]
+[2020.05.07-00.29.04:352][316]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.29.05:091][316]LogUObjectHash: Compacting FUObjectHashTables data took  10.85ms
+[2020.05.07-00.29.05:233][317]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.29.54:278][657]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2020.05.07-00.29.54:719][657]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_Auto5689FA6EE401A5D4521F694ACDC8BD04C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2020.05.07-00.29.54:722][657]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.561
+[2020.05.07-00.29.54:722][657]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.561
+[2020.05.07-00.29.54:722][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.05.07-00.29.54:778][657]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.05.07-00.29.54:778][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.05.07-00.29.54:854][657]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonCharacter_Auto5746FC16C4AAF94381C4DB08AD313170C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2020.05.07-00.29.54:855][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RPGHUD] ([1] browsable assets)...
+[2020.05.07-00.29.54:855][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RPGHUD]
+[2020.05.07-00.29.54:891][657]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGHUD_Auto5C79A16B8492C3FB73C0BCC9C42501B35.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RPGHUD_Auto5.uasset'
+[2020.05.07-00.29.54:892][657]LogFileHelpers: Auto-saving content packages took 0.171
+[2020.05.07-00.39.17:297][ 67]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.17:297][ 67]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.17:297][ 67]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.17:297][ 67]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.17:297][ 67]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.17:297][ 67]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.17:297][ 67]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.19:322][184]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.19:322][184]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.19:322][184]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.21:011][285]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.39.27:092][631]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.07-00.39.27:092][631]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.07-00.39.27:610][631]LogPackageName: SearchForPackageOnDisk took   0.519s, but failed to resolve FX_Meshes.
+[2020.05.07-00.39.27:610][631]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2020.05.07-00.39.27:800][631]LogTexture: Display: Building textures: T_Sparks_04_SubUV_1_4 (AutoDXT, 512X512)
+[2020.05.07-00.39.27:800][631]LogTexture: Display: Building textures: FX_Glow_12alpha (AutoDXT, 512X512)
+[2020.05.07-00.39.27:800][631]LogTexture: Display: Building textures: T_LightCone (AutoDXT, 256X256)
+[2020.05.07-00.39.27:800][631]LogStaticMesh: Building static mesh SM_Shockwave_01...
+[2020.05.07-00.39.27:867][631]LogTexture: Display: Building textures: T_Targeting_01 (AutoDXT, 256X256)
+[2020.05.07-00.39.27:867][631]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.05.07-00.39.27:902][631]LogTexture: Display: Building textures: T_Resurrection_Phoenix (AutoDXT, 1024X1024)
+[2020.05.07-00.39.27:938][631]LogStaticMesh: Built static mesh [0.14s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_Shockwave_01.SM_Shockwave_01
+[2020.05.07-00.39.29:477][631]LogTexture: Display: Building textures: T_Tile_Noise_Tendril_01 (AutoDXT, 1024X1024)
+[2020.05.07-00.39.29:477][631]LogTexture: Display: Building textures: T_starFlare_01 (AutoDXT, 256X256)
+[2020.05.07-00.39.29:477][631]LogMaterial: Display: Missing cached shader map for material M_Targeting_Enemy, compiling. 
+[2020.05.07-00.39.29:533][631]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.05.07-00.39.29:534][631]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.05.07-00.39.29:534][631]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_SubUV_Master, compiling. 
+[2020.05.07-00.39.29:590][631]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Master, compiling. 
+[2020.05.07-00.39.29:672][631]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Master_DepthFade, compiling. 
+[2020.05.07-00.39.29:714][631]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Pan_Emis_Mask_Master, compiling. 
+[2020.05.07-00.39.29:761][631]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Pan_Emis_Mask_Master, compiling. 
+[2020.05.07-00.39.35:944][850]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 168
+[2020.05.07-00.39.36:334][864]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 158
+[2020.05.07-00.39.40:726][ 23]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.39.41:270][ 23]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 148
+[2020.05.07-00.39.41:278][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2020.05.07-00.39.43:102][108]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 138
+[2020.05.07-00.39.48:907][413]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 128
+[2020.05.07-00.39.50:017][473]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 118
+[2020.05.07-00.39.54:640][656]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 108
+[2020.05.07-00.39.55:626][699]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 98
+[2020.05.07-00.39.59:817][886]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2020.05.07-00.40.00:333][909]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 78
+[2020.05.07-00.40.05:520][ 91]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2020.05.07-00.40.06:427][122]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2020.05.07-00.40.09:991][262]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2020.05.07-00.40.11:416][327]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.05.07-00.40.15:562][522]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.05.07-00.40.16:703][579]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.05.07-00.40.22:285][800]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.05.07-00.40.22:371][803]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.05.07-00.40.24:435][874]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.05.07-00.40.52:999][665]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.40.53:534][665]LogUObjectHash: Compacting FUObjectHashTables data took   9.65ms
+[2020.05.07-00.41.31:287][868]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2020.05.07-00.41.31:718][868]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_Auto64E100CA24E2BAC59DB599C8A7AB1B460.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2020.05.07-00.41.31:721][868]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.499
+[2020.05.07-00.41.31:721][868]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.499
+[2020.05.07-00.41.31:721][868]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.05.07-00.41.31:776][868]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.05.07-00.41.31:776][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.05.07-00.41.31:855][868]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonCharacter_Auto68AF9A0164F751F81D964DFB09C1170BF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2020.05.07-00.41.31:857][868]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RPGHUD] ([1] browsable assets)...
+[2020.05.07-00.41.31:857][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RPGHUD]
+[2020.05.07-00.41.31:885][868]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGHUD_Auto60D5416064DDADE0A6B413D87CAF885C1.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RPGHUD_Auto6.uasset'
+[2020.05.07-00.41.31:887][868]LogFileHelpers: Auto-saving content packages took 0.166
+[2020.05.07-00.42.19:553][420]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.42.19:657][420]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonCharacter189D80E048817EEB71C0088B3DE8810A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.07-00.42.19:696][420]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.07-00.42.19:696][420]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.42.19:767][423]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.42.21:495][526]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.42.21:501][526]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.42.21:502][526]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.42.21:502][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.42.31:124][759]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.42.33:429][904]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales.Eve_by_J__Gonzales
+[2020.05.07-00.42.33:440][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.07-00.42.33:509][904]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.07-00.43.04:123][152]LogSlate: Window 'Eve_by_J__Gonzales' being destroyed
+[2020.05.07-00.43.04:128][152]LogSlate: Window 'Eve_by_J__Gonzales' being destroyed
+[2020.05.07-00.43.04:129][152]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.43.04:129][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.43.12:190][722]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.43.13:990][899]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.43.14:396][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.43.27:939][383]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.43.28:466][383]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2020.05.07-00.43.28:529][383]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.43.30:596][467]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.43.30:726][467]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonCharacter411CF51A4CAAB5E42F798490A49D9338.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.07-00.43.30:765][467]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.07-00.43.30:765][467]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.43.30:845][470]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.43.57:096][883]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.44.07:114][237]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.44.07:625][237]LogUObjectHash: Compacting FUObjectHashTables data took   9.26ms
+[2020.05.07-00.45.03:403][129]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.45.03:915][129]LogUObjectHash: Compacting FUObjectHashTables data took   8.54ms
+[2020.05.07-00.46.46:830][234]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.46.47:350][234]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2020.05.07-00.47.45:422][287]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.47.45:903][287]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2020.05.07-00.47.46:649][313]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.47.46:800][313]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonCharacterF713ADE8497CE54124320F9AA5EE1FFC.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.07-00.47.46:836][313]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.07-00.47.46:836][313]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.47.46:907][316]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.47.50:080][481]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.47.50:086][481]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.47.50:087][481]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.47.50:087][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.47.52:814][745]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.47.52:924][745]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2020.05.07-00.47.53:361][745]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap17EF013A44B2F7D8B61E44BE374417D5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.07-00.47.53:515][745]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.47.53:675][745]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltData07525C41494501A5F7A3D98B1D3D92E2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.07-00.47.53:706][745]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.07-00.47.53:706][745]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.07-00.47.53:706][745]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.07-00.47.53:801][749]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.47:609][100]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.48:512][163]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.49:531][233]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.50:564][309]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.52:171][333]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.53:182][336]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.54:193][339]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.55:194][342]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.56:200][345]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.57:539][349]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.58:541][352]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.51.59:545][355]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.00:545][358]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.01:551][361]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.02:554][364]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.03:562][367]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.04:564][370]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.05:576][373]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.06:584][376]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.07:595][379]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.08:600][382]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.09:604][385]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.10:621][388]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.11:636][391]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.12:644][394]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.13:649][397]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.14:660][400]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.15:667][403]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.16:672][406]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.17:677][409]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.18:681][412]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.19:685][415]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.20:689][418]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.21:700][421]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.22:712][424]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.23:716][427]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.25:058][431]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.26:066][434]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.27:076][437]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.28:079][440]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.29:087][443]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.30:092][446]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.31:100][449]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.32:115][452]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.33:122][455]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.34:127][458]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.35:137][461]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.36:145][464]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.37:152][467]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.38:154][470]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.39:168][473]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.40:177][476]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.41:188][479]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.42:188][482]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.43:197][485]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.44:200][488]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.45:211][491]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.45:648][496]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.46:648][565]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.47:646][639]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.48:662][714]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.49:674][789]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.50:698][864]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.51:697][938]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.52:712][ 13]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.53:706][ 86]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.54:704][159]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.55:720][234]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.56:716][302]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.57:729][370]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.52.58:744][437]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.00:094][462]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.00:757][504]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.01:785][573]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.02:777][636]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.03:788][703]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.04:819][768]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.05:828][829]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.06:816][896]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.07:807][964]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.08:824][ 32]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.09:838][100]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.10:845][163]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.11:840][227]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.12:851][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.13:865][363]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.14:901][424]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.15:885][483]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.16:918][542]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.17:981][608]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.18:988][675]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.20:850][712]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.21:852][715]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.22:330][720]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.23:324][774]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.24:286][837]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.25:304][902]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.53:321][763]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.54:306][828]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.55:337][903]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.56:312][975]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.57:330][ 50]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.58:344][124]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.53.59:715][201]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.01:051][205]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.02:054][208]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.03:059][211]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.04:069][214]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.05:084][217]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.06:093][220]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.07:101][223]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.08:107][226]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.09:109][229]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.10:117][232]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.11:128][235]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.12:134][238]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.13:140][241]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.14:148][244]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.15:154][247]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.16:154][250]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.17:156][253]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.18:162][256]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.19:169][259]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.20:170][262]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.21:172][265]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.22:178][268]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.23:180][271]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.24:188][274]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.25:199][277]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.26:206][280]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.26:682][286]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.27:630][347]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.28:649][405]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.29:636][473]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.30:647][542]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.31:678][613]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.32:649][679]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.33:668][750]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.34:677][818]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.35:668][886]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.36:722][960]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.38:407][965]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.39:420][968]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.40:425][971]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.41:440][974]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.42:449][977]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.43:467][980]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.44:481][983]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.45:488][986]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.49:181][997]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.49:846][999]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.07-00.54.49:850][999]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.07-00.54.50:050][  3]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.54.52:976][140]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.07-00.54.52:997][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.54.52:997][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.07-00.54.52:997][140]PIE: New page: PIE session: ThirdPersonExampleMap (May 6, 2020, 4:54:52 PM)
+[2020.05.07-00.54.52:998][140]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.54.53:015][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017123s)
+[2020.05.07-00.54.53:017][140]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.07-00.54.53:017][140]LogPlayLevel: PIE: World Init took: (0.002395s)
+[2020.05.07-00.54.53:017][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019768s)
+[2020.05.07-00.54.53:083][140]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.05.07-00.54.53:092][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.07-00.54.53:092][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.07-00.54.53:092][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.07-00.54.53:092][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.07-00.54.53:092][140]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.07-00.54.53:092][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.07-00.54.53:092][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.07-00.54.53:092][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.07-00.54.53:093][140]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.07-00.54.53:093][140]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.07-00.54.53:115][140]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.07-00.54.53:115][140]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.07-00.54.53:115][140]LogAudioMixer: Display: Is Default: Yes
+[2020.05.07-00.54.53:115][140]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.07-00.54.53:115][140]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.07-00.54.53:115][140]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.07-00.54.53:115][140]LogAudioMixer: Display: Channel Order:
+[2020.05.07-00.54.53:115][140]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.07-00.54.53:115][140]LogAudioMixer: Display: 1: FrontRight
+[2020.05.07-00.54.53:129][140]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.07-00.54.53:133][140]LogInit: FAudioDevice initialized.
+[2020.05.07-00.54.53:145][140]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.07-00.54.53:148][140]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.06-20.54.53
+[2020.05.07-00.54.53:148][140]LogWorld: Bringing up level for play took: 0.002300
+[2020.05.07-00.54.53:149][140]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.05.07-00.54.53:153][140]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.165
+[2020.05.07-00.54.53:153][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.55.09:961][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.55.09:961][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.55.09:961][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.55.09:961][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.55.09:961][993]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.55.09:961][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.55.09:961][993]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.55.09:962][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.55.09:970][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.07-00.55.09:970][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.55.09:981][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.55.10:036][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.55.10:040][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.55.10:048][993]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.05.07-00.55.10:084][994]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.05.07-00.55.39:802][234]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.40:743][301]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.41:732][371]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.42:730][444]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.43:722][518]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.44:765][593]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.45:471][644]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.46:480][713]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.51:969][101]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.53:014][175]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.54:004][246]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.55:010][323]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.56:020][396]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.57:027][470]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.58:054][544]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.55.59:050][614]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.56.00:079][689]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.56.22:557][427]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.07-00.56.37:151][169]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.56.37:191][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RPGHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD.uasset" SILENT=true
+[2020.05.07-00.56.37:221][169]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGHUDC18A24A14D5A269918E567A4B3FE5DD6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD.uasset'
+[2020.05.07-00.56.37:379][169]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.56.37:379][169]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.56.37:406][169]AssetCheck: New page: Asset Save: RPGHUD
+[2020.05.07-00.56.37:406][169]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.07-00.56.37:510][173]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.56.38:052][201]BlueprintLog: New page: Compile RPGHUD
+[2020.05.07-00.56.38:149][201]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.05.07-00.56.39:906][276]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.56.39:942][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RPGHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD.uasset" SILENT=true
+[2020.05.07-00.56.39:982][276]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGHUDB8DF36A14B4968C4BE48FD9D069C2096.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD.uasset'
+[2020.05.07-00.56.40:005][276]AssetCheck: New page: Asset Save: RPGHUD
+[2020.05.07-00.56.40:005][276]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.07-00.56.40:082][279]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.56.41:497][358]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.07-00.56.41:501][358]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.07-00.56.41:508][358]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.56.41:508][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.56.41:534][358]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.56.41:534][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.56.43:305][523]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.07-00.56.43:326][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.56.43:326][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.07-00.56.43:326][523]PIE: New page: PIE session: ThirdPersonExampleMap (May 6, 2020, 4:56:43 PM)
+[2020.05.07-00.56.43:326][523]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.56.43:343][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016579s)
+[2020.05.07-00.56.43:345][523]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.07-00.56.43:345][523]LogPlayLevel: PIE: World Init took: (0.001945s)
+[2020.05.07-00.56.43:345][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018739s)
+[2020.05.07-00.56.43:419][523]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2020.05.07-00.56.43:420][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.07-00.56.43:420][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.07-00.56.43:420][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.07-00.56.43:420][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.07-00.56.43:420][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.07-00.56.43:420][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.07-00.56.43:420][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.07-00.56.43:420][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.07-00.56.43:421][523]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.07-00.56.43:421][523]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.07-00.56.43:442][523]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.07-00.56.43:442][523]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.07-00.56.43:442][523]LogAudioMixer: Display: Is Default: Yes
+[2020.05.07-00.56.43:442][523]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.07-00.56.43:442][523]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.07-00.56.43:442][523]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.07-00.56.43:442][523]LogAudioMixer: Display: Channel Order:
+[2020.05.07-00.56.43:442][523]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.07-00.56.43:442][523]LogAudioMixer: Display: 1: FrontRight
+[2020.05.07-00.56.43:457][523]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.07-00.56.43:459][523]LogInit: FAudioDevice initialized.
+[2020.05.07-00.56.43:467][523]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.07-00.56.43:470][523]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.06-20.56.43
+[2020.05.07-00.56.43:470][523]LogWorld: Bringing up level for play took: 0.002109
+[2020.05.07-00.56.43:471][523]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.05.07-00.56.43:474][523]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.157
+[2020.05.07-00.56.43:475][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.56.52:783][550]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.56.52:783][550]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.56.52:783][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.56.52:783][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.56.52:783][550]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.56.52:783][550]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.56.52:783][550]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.56.52:784][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.56.52:792][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.07-00.56.52:792][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.56.52:803][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.56.52:862][550]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.56.52:865][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.56.52:873][550]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.05.07-00.56.52:909][551]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.05.07-00.57.01:075][375]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.58.38:452][576]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.58.42:413][771]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.07-00.58.42:936][771]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2020.05.07-00.58.43:135][772]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.58.49:644][ 98]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.58.49:785][ 98]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonCharacterFCF6B4B746BC2B8FCF31B4B412777122.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.07-00.58.49:820][ 98]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.07-00.58.49:820][ 98]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.07-00.58.49:893][101]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.58.53:711][304]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.58.53:717][304]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.07-00.58.53:718][304]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.58.53:718][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.58.54:755][396]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.07-00.58.54:775][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.58.54:775][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.07-00.58.54:775][396]PIE: New page: PIE session: ThirdPersonExampleMap (May 6, 2020, 4:58:54 PM)
+[2020.05.07-00.58.54:775][396]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.58.54:794][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018115s)
+[2020.05.07-00.58.54:795][396]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.07-00.58.54:796][396]LogPlayLevel: PIE: World Init took: (0.002037s)
+[2020.05.07-00.58.54:796][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020403s)
+[2020.05.07-00.58.54:856][396]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2020.05.07-00.58.54:858][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.07-00.58.54:858][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.07-00.58.54:858][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.07-00.58.54:858][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.07-00.58.54:858][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.07-00.58.54:858][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.07-00.58.54:858][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.07-00.58.54:858][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.07-00.58.54:859][396]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.07-00.58.54:859][396]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.07-00.58.54:880][396]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.07-00.58.54:880][396]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.07-00.58.54:880][396]LogAudioMixer: Display: Is Default: Yes
+[2020.05.07-00.58.54:880][396]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.07-00.58.54:880][396]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.07-00.58.54:880][396]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.07-00.58.54:880][396]LogAudioMixer: Display: Channel Order:
+[2020.05.07-00.58.54:880][396]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.07-00.58.54:880][396]LogAudioMixer: Display: 1: FrontRight
+[2020.05.07-00.58.54:894][396]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.07-00.58.54:899][396]LogInit: FAudioDevice initialized.
+[2020.05.07-00.58.54:905][396]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.07-00.58.54:908][396]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.06-20.58.54
+[2020.05.07-00.58.54:908][396]LogWorld: Bringing up level for play took: 0.002079
+[2020.05.07-00.58.54:908][396]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.05.07-00.58.54:912][396]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.405
+[2020.05.07-00.58.54:912][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.59.03:736][373]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.59.03:736][373]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.59.03:736][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.59.03:736][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.59.03:736][373]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.59.03:737][373]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.59.03:737][373]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.59.03:737][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.59.03:748][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.07-00.59.03:749][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.59.03:760][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.59.03:812][373]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.59.03:816][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.59.03:824][373]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.05.07-00.59.03:857][374]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.05.07-00.59.07:076][700]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.59.07:172][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.05.07-00.59.07:633][700]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMapA5C6C0FF449707FBD02B81A3A456272F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.07-00.59.07:806][700]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.59.07:968][700]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltData507768904BF811255264349D8D761C0E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.07-00.59.07:998][700]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.07-00.59.07:998][700]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.07-00.59.07:998][700]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.07-00.59.08:172][703]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.59.08:511][727]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.07-00.59.20:437][464]BlueprintLog: New page: Compile RPGHUD
+[2020.05.07-00.59.20:526][464]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2020.05.07-00.59.21:320][510]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.59.21:360][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RPGHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD.uasset" SILENT=true
+[2020.05.07-00.59.21:389][510]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGHUDBE30161A49016FE00025EA835EABD82F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD.uasset'
+[2020.05.07-00.59.21:411][510]AssetCheck: New page: Asset Save: RPGHUD
+[2020.05.07-00.59.21:411][510]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.07-00.59.21:497][515]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-00.59.29:968][102]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.07-00.59.29:974][102]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.07-00.59.29:982][102]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.59.29:982][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.59.30:011][102]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.59.30:011][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.59.31:032][199]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.07-00.59.31:053][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.59.31:053][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.07-00.59.31:053][199]PIE: New page: PIE session: ThirdPersonExampleMap (May 6, 2020, 4:59:31 PM)
+[2020.05.07-00.59.31:053][199]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.59.31:073][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019405s)
+[2020.05.07-00.59.31:075][199]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.07-00.59.31:075][199]LogPlayLevel: PIE: World Init took: (0.002188s)
+[2020.05.07-00.59.31:075][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021851s)
+[2020.05.07-00.59.31:144][199]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2020.05.07-00.59.31:146][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.07-00.59.31:146][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.07-00.59.31:146][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.07-00.59.31:146][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.07-00.59.31:146][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.07-00.59.31:146][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.07-00.59.31:146][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.07-00.59.31:146][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.07-00.59.31:147][199]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.07-00.59.31:147][199]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.07-00.59.31:169][199]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.07-00.59.31:169][199]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.07-00.59.31:169][199]LogAudioMixer: Display: Is Default: Yes
+[2020.05.07-00.59.31:169][199]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.07-00.59.31:169][199]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.07-00.59.31:169][199]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.07-00.59.31:169][199]LogAudioMixer: Display: Channel Order:
+[2020.05.07-00.59.31:169][199]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.07-00.59.31:169][199]LogAudioMixer: Display: 1: FrontRight
+[2020.05.07-00.59.31:183][199]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.07-00.59.31:186][199]LogInit: FAudioDevice initialized.
+[2020.05.07-00.59.31:194][199]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.07-00.59.31:197][199]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.06-20.59.31
+[2020.05.07-00.59.31:197][199]LogWorld: Bringing up level for play took: 0.002112
+[2020.05.07-00.59.31:198][199]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.05.07-00.59.31:201][199]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.117
+[2020.05.07-00.59.31:201][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.59.39:437][105]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.59.39:437][105]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.59.39:437][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.59.39:437][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.59.39:438][105]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-00.59.39:438][105]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.59.39:438][105]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-00.59.39:438][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.59.39:446][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.07-00.59.39:446][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-00.59.39:457][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-00.59.39:509][105]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-00.59.39:512][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-00.59.39:519][105]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.05.07-00.59.39:554][106]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.05.07-00.59.42:094][373]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.07-00.59.59:695][376]LogEditorTransaction: Undo Edit Render Opacity
+[2020.05.07-00.59.59:702][376]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.07-00.59.59:755][376]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.052 s
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: 
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: 
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: Stack: 
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff87941c918 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8788e0cf0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff878891e1a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8862062e7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff886206e0f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff886206bf1 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff886255dbd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff88623eb92 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8861cfe28 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff88616195a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff88625f621 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8861d21a9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd26e957 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd350050 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd14f418 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd14fcfa UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd0f8d05 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff871cb945c UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff871d2d9c2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff871cf5e76 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff871cb557b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff871e17c49 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff871df6e1b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff881f21b59 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd714d6e UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff878be4ecd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff881f255f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8788922ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8788b73b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff8788a2d4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:755][376]LogOutputDevice: Error: [Callstack] 0x00007ff87893ea93 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8788dec6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff881f225c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd0f9ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd1303de UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8790b568e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8790a3221 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd0c1041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd13224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8cd127b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8d19c4918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8d19b242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8d19c7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8d19aec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8f07e5c0d USER32.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8f07e5602 USER32.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8d19c8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff60ab26db0 UE4Editor.exe!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff60ab3c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff60ab3c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff60ab4ceae UE4Editor.exe!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff60ab4fcbe UE4Editor.exe!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8f1157bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: [Callstack] 0x00007ff8f276ce51 ntdll.dll!UnknownFunction []
+[2020.05.07-00.59.59:756][376]LogOutputDevice: Error: 
+[2020.05.07-00.59.59:761][376]LogStats:                SubmitErrorReport -  0.000 s
+[2020.05.07-01.00.00:312][376]LogStats:                    SendNewReport -  0.551 s
+[2020.05.07-01.00.00:312][376]LogStats:             FDebug::EnsureFailed -  0.611 s
+[2020.05.07-01.02.13:932][331]LogSlate: Window 'Health - Property Editor' being destroyed
+[2020.05.07-01.02.13:938][331]LogSlate: Window 'Health - Property Editor' being destroyed
+[2020.05.07-01.02.13:946][331]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.02.13:946][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-01.02.14:008][331]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.02.14:008][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-01.02.15:079][413]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.07-01.02.48:395][375]BlueprintLog: New page: Compile RPGHUD
+[2020.05.07-01.02.48:845][375]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2020.05.07-01.02.49:679][407]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.02.49:715][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RPGHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD.uasset" SILENT=true
+[2020.05.07-01.02.49:754][407]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGHUDC7ECCA4F4A02A0AE37F1E193F588A7DB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD.uasset'
+[2020.05.07-01.02.49:790][407]AssetCheck: New page: Asset Save: RPGHUD
+[2020.05.07-01.02.49:790][407]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.07-01.02.49:869][409]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.02.52:055][536]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.07-01.02.52:059][536]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.07-01.02.52:066][536]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.02.52:066][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-01.02.52:085][536]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.02.52:085][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-01.02.53:731][696]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.07-01.02.53:751][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-01.02.53:752][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.07-01.02.53:752][696]PIE: New page: PIE session: ThirdPersonExampleMap (May 6, 2020, 5:02:53 PM)
+[2020.05.07-01.02.53:752][696]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-01.02.53:768][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017259s)
+[2020.05.07-01.02.53:771][696]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.07-01.02.53:771][696]LogPlayLevel: PIE: World Init took: (0.003089s)
+[2020.05.07-01.02.53:772][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020857s)
+[2020.05.07-01.02.53:834][696]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2020.05.07-01.02.53:836][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.07-01.02.53:836][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.07-01.02.53:836][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.07-01.02.53:836][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.07-01.02.53:836][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.07-01.02.53:836][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.07-01.02.53:836][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.07-01.02.53:836][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.07-01.02.53:838][696]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.07-01.02.53:838][696]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.07-01.02.53:859][696]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.07-01.02.53:859][696]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.07-01.02.53:859][696]LogAudioMixer: Display: Is Default: Yes
+[2020.05.07-01.02.53:859][696]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.07-01.02.53:859][696]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.07-01.02.53:859][696]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.07-01.02.53:859][696]LogAudioMixer: Display: Channel Order:
+[2020.05.07-01.02.53:859][696]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.07-01.02.53:859][696]LogAudioMixer: Display: 1: FrontRight
+[2020.05.07-01.02.53:872][696]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.07-01.02.53:876][696]LogInit: FAudioDevice initialized.
+[2020.05.07-01.02.53:883][696]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.07-01.02.53:885][696]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.06-21.02.53
+[2020.05.07-01.02.53:885][696]LogWorld: Bringing up level for play took: 0.002174
+[2020.05.07-01.02.53:885][696]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.05.07-01.02.53:890][696]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.572
+[2020.05.07-01.02.53:890][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-01.03.07:353][141]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-01.03.07:353][141]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-01.03.07:353][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-01.03.07:354][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-01.03.07:354][141]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.07-01.03.07:354][141]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-01.03.07:354][141]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.03.07:354][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-01.03.07:362][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.07-01.03.07:363][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.07-01.03.07:374][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-01.03.07:433][141]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-01.03.07:437][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-01.03.07:444][141]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.05.07-01.03.07:479][142]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.05.07-01.04.52:649][287]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.04.55:912][622]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.04.57:829][797]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.09:978][943]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.14:109][337]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.14:109][337]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.14:109][337]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.14:109][337]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.17:179][596]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.21:688][963]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Ausar_Resurrection)
+[2020.05.07-01.05.22:812][ 54]Cmd: DELETE
+[2020.05.07-01.05.22:812][ 54]Cmd: ACTOR DELETE
+[2020.05.07-01.05.22:927][ 54]LogEditorActor: Deleted Actor: Emitter
+[2020.05.07-01.05.22:984][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.05.07-01.05.22:994][ 54]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2020.05.07-01.05.36:652][376]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.37:164][408]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.38:179][481]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.39:170][550]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.05.39:481][573]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.07-01.05.39:489][573]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.07-01.09.29:378][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.05.07-01.09.29:853][554]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_Auto7C93F19DC4C64F00CEDEE4BBE864D1C73.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2020.05.07-01.09.29:856][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.543
+[2020.05.07-01.09.29:856][554]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.543
+[2020.05.07-01.25.05:065][561]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.25.05:163][561]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.05.07-01.25.05:591][561]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap400C6DC041A89C4C9D78759F2043B2A2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.07-01.25.05:760][561]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.25.05:929][561]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltData79EF657B49A29B8D62CD7EBE91E2906C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.07-01.25.05:961][561]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.07-01.25.05:961][561]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.07-01.25.05:961][561]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.07-01.25.06:069][565]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
