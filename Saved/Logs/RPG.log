@@ -7636,3 +7636,686 @@ Script Stack (0 frames):
 [2020.05.07-01.25.05:961][561]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.07-01.25.05:961][561]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.05.07-01.25.06:069][565]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.41.30:042][522]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.41.30:157][522]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.05.07-01.41.30:597][522]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap9F7B30A647177F1A941757B4FC40F254.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.07-01.41.30:745][522]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.41.30:916][522]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltData63EE03844B2DB3980ACC8BA33448E746.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.07-01.41.30:947][522]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.07-01.41.30:947][522]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.07-01.41.30:947][522]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.07-01.41.31:047][526]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.00:570][294]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.05.07-01.49.02:276][294]LogSlate: Window 'Save Content' being destroyed
+[2020.05.07-01.49.02:677][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.02:677][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.03:039][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Crouch_Idle237F16A147D68A5AA186B68C442F660F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Idle.uasset'
+[2020.05.07-01.49.03:476][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.03:476][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.03:537][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Crouch_To_Standing_IdleA6511F1248C3CA8E1BEF5095DE6E5521.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Crouch_To_Standing_Idle.uasset'
+[2020.05.07-01.49.03:837][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.03:837][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.03:932][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Crouch_Turn_Left_90E842FD8F45E1BEB32FE6029CE3AB5D38.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Turn_Left_90.uasset'
+[2020.05.07-01.49.04:236][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.04:236][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.04:355][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Crouch_Turn_Right_9017AFC7FD4738E082BAFFEA8E739054AF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Turn_Right_90.uasset'
+[2020.05.07-01.49.04:703][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.04:703][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.04:954][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Crouch_Walk_Back9637BFBE403AD7EFE225649B8B76EC47.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Walk_Back.uasset'
+[2020.05.07-01.49.05:196][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.05:196][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.05:255][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Crouch_Walk_Forward914E0DE44E9B3A111812F19E7EF06977.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Walk_Forward.uasset'
+[2020.05.07-01.49.05:454][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.05:454][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.05:645][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Crouch_Walk_Left00580E8E4EEF12576005A89F8B5360E4.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Walk_Left.uasset'
+[2020.05.07-01.49.05:947][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.05:947][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.05:998][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Crouch_Walk_Right329C0D5D4657C74F5ACA6CB963D00F98.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Walk_Right.uasset'
+[2020.05.07-01.49.06:269][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.06:269][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.06:368][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/standing_1H_cast_spell_012F5AF8B04D704C4931BC5FB66213B9DC.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/standing_1H_cast_spell_01.uasset'
+[2020.05.07-01.49.06:700][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.06:700][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.06:810][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_1H_Magic_Attack_014E746CA54A049CAEC3C2408187D466C9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_1H_Magic_Attack_01.uasset'
+[2020.05.07-01.49.07:032][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.07:032][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.07:179][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_1H_Magic_Attack_02C78445014634B3EDA5C80FBE30CED285.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_1H_Magic_Attack_02.uasset'
+[2020.05.07-01.49.07:557][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.07:557][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.08:076][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_1H_Magic_Attack_03B6C9182F4EE7DD767363AF885BA89178.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_1H_Magic_Attack_03.uasset'
+[2020.05.07-01.49.08:446][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.08:446][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.08:896][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_2H_Cast_Spell_013741861B420E05DF879DFEA5DC3920EF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Cast_Spell_01.uasset'
+[2020.05.07-01.49.09:218][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.09:218][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.09:337][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_2H_Magic_Area_Attack_014D9A18A74E5DF57896343BA27EBCB141.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Area_Attack_01.uasset'
+[2020.05.07-01.49.09:588][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.09:588][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.09:683][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_2H_Magic_Area_Attack_029E9EF05F48A5829AA97886B0CED66D3D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Area_Attack_02.uasset'
+[2020.05.07-01.49.10:041][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.10:041][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.10:145][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_2H_Magic_Attack_01EBF2204F466718E2C2B9878C365DD9F7.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_01.uasset'
+[2020.05.07-01.49.10:393][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.10:393][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.10:573][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_2H_Magic_Attack_02695AE7B545FC5CEA10D02AA82EEB5D86.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_02.uasset'
+[2020.05.07-01.49.10:900][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.10:900][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.11:001][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_2H_Magic_Attack_03CAF88A97450EAE094F7E608547C92DBB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_03.uasset'
+[2020.05.07-01.49.11:277][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.11:277][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.11:327][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_2H_Magic_Attack_04134ED1114F4EEDDEBFA52E943C3484A9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_04.uasset'
+[2020.05.07-01.49.11:735][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.11:735][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.11:987][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_2H_Magic_Attack_05BEB145704E5D4B18F69F9BBEC0A17DC8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_05.uasset'
+[2020.05.07-01.49.12:232][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.12:232][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.12:269][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Block_End9F148E5C48D3470D7F37D980288F4541.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Block_End.uasset'
+[2020.05.07-01.49.12:513][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.12:513][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.12:603][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Block_Idle205210534DC9B89E3A2F19849F58C85F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Block_Idle.uasset'
+[2020.05.07-01.49.12:953][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.12:953][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.13:054][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Block_React_Large1B6C7A1442AF0F60F52766942FE7B968.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Block_React_Large.uasset'
+[2020.05.07-01.49.13:369][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.13:369][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.13:461][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Block_Start9CE9C92A43BD0C0EFBBAA9A565C4E696.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Block_Start.uasset'
+[2020.05.07-01.49.13:726][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.13:726][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.13:753][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/standing_idle782B4D414EE114A75575CAA3EE9275DB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/standing_idle.uasset'
+[2020.05.07-01.49.14:048][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.14:048][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.14:244][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/standing_idle_029DDB9D6349C2CB658A5C6E92D6D18A66.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/standing_idle_02.uasset'
+[2020.05.07-01.49.14:486][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.14:486][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.14:592][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Idle_03F6C24A9E489AB854AF97D5A0E47320AF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Idle_03.uasset'
+[2020.05.07-01.49.14:854][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.14:854][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.15:032][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Idle_04685ABCBA4F75BEC079B7DEA182AE7B1D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Idle_04.uasset'
+[2020.05.07-01.49.15:404][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.15:404][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.15:475][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Idle_To_Crouch68F24C4D4A74BBB1FA8BB899D645F028.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Idle_To_Crouch.uasset'
+[2020.05.07-01.49.15:698][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.15:698][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.15:778][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_JumpDA32BE2E4A23CE1B56CBAD85AF109CE6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Jump.uasset'
+[2020.05.07-01.49.16:030][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.16:030][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.16:077][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Jump_RunningF1E3A15D4E41DAF8DFF813B1339C248D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Jump_Running.uasset'
+[2020.05.07-01.49.16:287][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.16:287][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.16:346][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Jump_Running_Landing5E33FD48452587138DAEE99D7F09A6D9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Jump_Running_Landing.uasset'
+[2020.05.07-01.49.16:637][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.16:637][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.16:683][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Land_To_Standing_Idle1F3D58454EB891F0C4F474A521437E27.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Land_To_Standing_Idle.uasset'
+[2020.05.07-01.49.16:919][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.16:919][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.17:047][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Death_Backward9267AA2C4486C9F2FAA5499AACD7BC92.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Death_Backward.uasset'
+[2020.05.07-01.49.17:273][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.17:273][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.17:491][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Death_ForwardEB636BD641E40ACBDBB027B9CA6CE89D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Death_Forward.uasset'
+[2020.05.07-01.49.17:850][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.17:850][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.17:938][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Death_Left3BA8720948B3E0F2C061239CB1EFBE7A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Death_Left.uasset'
+[2020.05.07-01.49.18:190][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.18:190][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.18:671][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Death_Right17F8A3D24B16977FDEBCC6A90F30B0E6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Death_Right.uasset'
+[2020.05.07-01.49.19:352][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.19:352][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.19:446][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Large_From_Back25B54ED340D2FAAFAED3DBBCA7DAEC32.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Large_From_Back.uasset'
+[2020.05.07-01.49.19:733][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.19:733][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.19:801][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Large_From_Front5803186B45C3ED7B7748B4B47FD265EF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Large_From_Front.uasset'
+[2020.05.07-01.49.20:019][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.20:019][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.20:043][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Large_From_Left6F14548B44FD07CEBD326B8E5BEB1646.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Large_From_Left.uasset'
+[2020.05.07-01.49.20:282][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.20:282][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.20:388][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Large_From_RightA96E015B484040165466A5A79B0476C2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Large_From_Right.uasset'
+[2020.05.07-01.49.20:834][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.20:834][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.20:916][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Small_From_Back78CCCDFB46CDB7A6C79C91B1FA99FA9E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Small_From_Back.uasset'
+[2020.05.07-01.49.21:160][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.21:160][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.21:202][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Small_From_Front3F3BED7343E877278F42688A8AF06CFD.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Small_From_Front.uasset'
+[2020.05.07-01.49.21:408][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.21:408][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.21:449][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Small_From_Left1C95F79C4D0A01C5BB518EA21A86EA38.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Small_From_Left.uasset'
+[2020.05.07-01.49.21:715][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.21:715][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.21:743][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_React_Small_From_Right8034638D4145EFAD6AC92DAC0E4770EA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Small_From_Right.uasset'
+[2020.05.07-01.49.21:940][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.21:940][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.21:981][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Run_Back_inPlaceBFF0E8D04BC17920FCD9BAA06F73C0D3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Run_Back_inPlace.uasset'
+[2020.05.07-01.49.22:365][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.22:365][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.22:389][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Run_Forward_inPlace7345EA4A4C13C6248311EDB30A2FC301.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Run_Forward_inPlace.uasset'
+[2020.05.07-01.49.22:587][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.22:587][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.22:642][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Run_Left_inPlace69178AA7441739C59D69139E2865D548.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Run_Left_inPlace.uasset'
+[2020.05.07-01.49.22:883][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.22:883][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.22:936][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Run_Right_inPlaceF3C585FC455F1679E1ABED9F7DD30A49.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Run_Right_inPlace.uasset'
+[2020.05.07-01.49.23:346][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.23:346][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.23:381][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Sprint_Forward_inPlace8FE6B48548883A8CEAD40EA26399F7F4.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Sprint_Forward_inPlace.uasset'
+[2020.05.07-01.49.23:783][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.23:783][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.23:866][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Turn_Left_90C92D1BA6462272820EB49EA80EAB5101.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Turn_Left_90.uasset'
+[2020.05.07-01.49.24:087][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.24:087][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.24:155][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Turn_Right_90DDC353D2438878B1145B3BB5CACDC032.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Turn_Right_90.uasset'
+[2020.05.07-01.49.24:397][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.24:397][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.24:422][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Walk_Back_inPlaceDD27F699480EF74D0F18EE93298FE021.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Walk_Back_inPlace.uasset'
+[2020.05.07-01.49.24:694][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.24:694][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.24:745][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Walk_Forward_inPlace77526F194A8C2BCEBB18AFBCFA5FEA88.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Walk_Forward_inPlace.uasset'
+[2020.05.07-01.49.24:938][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.24:938][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.24:966][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Walk_Left_inPlace2E9A67B243951180FC6DF185C32550F2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Walk_Left_inPlace.uasset'
+[2020.05.07-01.49.25:181][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.25:181][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.25:277][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Standing_Walk_Right_inPlace47B89F1C4F4CBF78E6E32481B80797EE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Animations/Standing_Walk_Right_inPlace.uasset'
+[2020.05.07-01.49.25:733][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.25:733][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.26:199][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_by_J__Gonzales74DB0A654655031DC0D526A6D6BAE21F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales.uasset'
+[2020.05.07-01.49.26:493][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.26:493][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.26:545][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_by_J__Gonzales_PhysicsAsset6C3CF53E49213CD551B755A3268775D5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales_PhysicsAsset.uasset'
+[2020.05.07-01.49.26:896][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.26:896][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.26:919][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Eve_by_J__Gonzales_Skeleton81FA241741D7C798B1D3DBA97AD60328.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales_Skeleton.uasset'
+[2020.05.07-01.49.27:126][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.27:126][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.28:218][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/SpacePirate_diffuse27BAA2A0452CFC0E716E73903009F4C3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/SpacePirate_diffuse.uasset'
+[2020.05.07-01.49.28:549][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.28:549][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.28:586][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/SpacePirate_MFEC723EB4E45352DEFB708B96090E0A8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/SpacePirate_M.uasset'
+[2020.05.07-01.49.29:037][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.29:037][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.30:034][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/SpacePirate_normal159DD6B842985FC2E912129820625D82.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/SpacePirate_normal.uasset'
+[2020.05.07-01.49.30:413][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.30:413][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.31:207][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/SpacePirate_specularDBD313E9461632CFD0D0A1A00E072E83.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Character/SpacePirate_specular.uasset'
+[2020.05.07-01.49.31:449][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.31:449][294]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2020.05.07-01.49.31:763][294]LogSlate: Window 'RPG - Unreal Editor' being destroyed
+[2020.05.07-01.49.36:670][294]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Idle.Crouch_Idle
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Crouch_To_Standing_Idle.Crouch_To_Standing_Idle
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Turn_Left_90.Crouch_Turn_Left_90
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Turn_Right_90.Crouch_Turn_Right_90
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Walk_Back.Crouch_Walk_Back
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Walk_Left.Crouch_Walk_Left
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Crouch_Walk_Right.Crouch_Walk_Right
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/standing_1H_cast_spell_01.standing_1H_cast_spell_01
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_1H_Magic_Attack_01.Standing_1H_Magic_Attack_01
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_1H_Magic_Attack_02.Standing_1H_Magic_Attack_02
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_1H_Magic_Attack_03.Standing_1H_Magic_Attack_03
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Cast_Spell_01.Standing_2H_Cast_Spell_01
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Area_Attack_01.Standing_2H_Magic_Area_Attack_01
+[2020.05.07-01.49.36:670][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Area_Attack_02.Standing_2H_Magic_Area_Attack_02
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_02.Standing_2H_Magic_Attack_02
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_03.Standing_2H_Magic_Attack_03
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_04.Standing_2H_Magic_Attack_04
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_2H_Magic_Attack_05.Standing_2H_Magic_Attack_05
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Block_End.Standing_Block_End
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Block_Idle.Standing_Block_Idle
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Block_React_Large.Standing_Block_React_Large
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Block_Start.Standing_Block_Start
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/standing_idle.standing_idle
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/standing_idle_02.standing_idle_02
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Idle_03.Standing_Idle_03
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Idle_04.Standing_Idle_04
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Idle_To_Crouch.Standing_Idle_To_Crouch
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Jump.Standing_Jump
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Jump_Running.Standing_Jump_Running
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Jump_Running_Landing.Standing_Jump_Running_Landing
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Land_To_Standing_Idle.Standing_Land_To_Standing_Idle
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Death_Backward.Standing_React_Death_Backward
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Death_Forward.Standing_React_Death_Forward
+[2020.05.07-01.49.36:671][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Death_Left.Standing_React_Death_Left
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Death_Right.Standing_React_Death_Right
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Large_From_Back.Standing_React_Large_From_Back
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Large_From_Front.Standing_React_Large_From_Front
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Large_From_Left.Standing_React_Large_From_Left
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Large_From_Right.Standing_React_Large_From_Right
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Small_From_Back.Standing_React_Small_From_Back
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Small_From_Front.Standing_React_Small_From_Front
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Small_From_Left.Standing_React_Small_From_Left
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_React_Small_From_Right.Standing_React_Small_From_Right
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Run_Back_inPlace.Standing_Run_Back_inPlace
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Run_Forward_inPlace.Standing_Run_Forward_inPlace
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Run_Left_inPlace.Standing_Run_Left_inPlace
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Run_Right_inPlace.Standing_Run_Right_inPlace
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Sprint_Forward_inPlace.Standing_Sprint_Forward_inPlace
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Turn_Left_90.Standing_Turn_Left_90
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Turn_Right_90.Standing_Turn_Right_90
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Walk_Back_inPlace.Standing_Walk_Back_inPlace
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Walk_Forward_inPlace.Standing_Walk_Forward_inPlace
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Walk_Left_inPlace.Standing_Walk_Left_inPlace
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/Standing_Walk_Right_inPlace.Standing_Walk_Right_inPlace
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales.Eve_by_J__Gonzales
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating PhysicsAsset /Game/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales_PhysicsAsset.Eve_by_J__Gonzales_PhysicsAsset
+[2020.05.07-01.49.36:672][294]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/Character/Eve_by_J__Gonzales_Skeleton.Eve_by_J__Gonzales_Skeleton
+[2020.05.07-01.49.36:673][294]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Character/SpacePirate_diffuse.SpacePirate_diffuse
+[2020.05.07-01.49.36:673][294]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Blueprints/Character/SpacePirate_M.SpacePirate_M
+[2020.05.07-01.49.36:673][294]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Character/SpacePirate_normal.SpacePirate_normal
+[2020.05.07-01.49.36:673][294]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Character/SpacePirate_specular.SpacePirate_specular
+[2020.05.07-01.49.37:545][295]Cmd: QUIT_EDITOR
+[2020.05.07-01.49.37:545][295]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.07-01.49.41:427][295]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.07-01.49.41:429][295]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-01.49.46:206][295]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.07-01.49.47:522][295]LogExit: Preparing to exit.
+[2020.05.07-01.49.54:373][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:373][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:373][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:373][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:373][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:373][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:373][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:373][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.49.54:400][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:400][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:400][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:400][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:400][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:400][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:400][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:400][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.49.54:402][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:402][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:402][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:402][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:402][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:402][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:402][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:402][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.49.54:403][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:403][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:404][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:404][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:404][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:404][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:404][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:404][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.49.54:405][295]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.49.54:407][295]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.49.54:408][295]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.49.54:739][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:739][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:739][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:739][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:739][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:739][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:739][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.05.07-01.49.54:739][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.49.55:163][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-01.49.55:230][295]LogExit: Editor shut down
+[2020.05.07-01.49.55:638][295]LogExit: Transaction tracking system shut down
+[2020.05.07-01.49.56:296][295]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.07-01.50.14:448][295]LogExit: Object subsystem successfully closed.
+[2020.05.07-01.50.14:702][295]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.07-01.50.15:060][295]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (714)
+[2020.05.07-01.50.15:060][295]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (712)
+[2020.05.07-01.50.15:060][295]LogModuleManager: Shutting down and abandoning module Voice (710)
+[2020.05.07-01.50.15:061][295]LogModuleManager: Shutting down and abandoning module AnimationEditor (708)
+[2020.05.07-01.50.15:061][295]LogModuleManager: Shutting down and abandoning module PinnedCommandList (706)
+[2020.05.07-01.50.15:061][295]LogModuleManager: Shutting down and abandoning module SkeletonEditor (704)
+[2020.05.07-01.50.15:062][295]LogModuleManager: Shutting down and abandoning module SequencerWidgets (702)
+[2020.05.07-01.50.15:062][295]LogModuleManager: Shutting down and abandoning module BlueprintGraph (700)
+[2020.05.07-01.50.15:062][295]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (698)
+[2020.05.07-01.50.15:087][295]LogModuleManager: Shutting down and abandoning module SceneOutliner (696)
+[2020.05.07-01.50.15:088][295]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.05.07-01.50.15:628][295]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.05.07-01.50.15:628][295]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.05.07-01.50.15:628][295]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.05.07-01.50.15:630][295]LogModuleManager: Shutting down and abandoning module StatsViewer (686)
+[2020.05.07-01.50.15:631][295]LogModuleManager: Shutting down and abandoning module MeshBuilder (684)
+[2020.05.07-01.50.15:631][295]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.05.07-01.50.15:632][295]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.05.07-01.50.15:638][295]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.05.07-01.50.15:648][295]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.05.07-01.50.15:649][295]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.05.07-01.50.15:649][295]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.05.07-01.50.15:649][295]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.05.07-01.50.15:649][295]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.05.07-01.50.15:649][295]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.05.07-01.50.15:650][295]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.05.07-01.50.15:652][295]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.05.07-01.50.15:652][295]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.05.07-01.50.15:653][295]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.05.07-01.50.15:654][295]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.05.07-01.50.15:654][295]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.05.07-01.50.15:655][295]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.05.07-01.50.15:656][295]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.05.07-01.50.15:661][295]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.05.07-01.50.15:661][295]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.05.07-01.50.15:662][295]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.05.07-01.50.15:664][295]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.05.07-01.50.15:664][295]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.05.07-01.50.15:664][295]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.05.07-01.50.15:664][295]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.05.07-01.50.15:664][295]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.05.07-01.50.15:665][295]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.05.07-01.50.15:666][295]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.05.07-01.50.15:668][295]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.05.07-01.50.15:736][295]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.05.07-01.50.15:736][295]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.05.07-01.50.15:736][295]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.05.07-01.50.15:736][295]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.05.07-01.50.15:736][295]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.05.07-01.50.15:736][295]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.05.07-01.50.15:736][295]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.05.07-01.50.15:736][295]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.05.07-01.50.15:737][295]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.05.07-01.50.15:737][295]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.05.07-01.50.15:737][295]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.05.07-01.50.15:737][295]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.05.07-01.50.15:759][295]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.05.07-01.50.15:759][295]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.05.07-01.50.15:795][295]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.05.07-01.50.15:795][295]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.05.07-01.50.15:795][295]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.05.07-01.50.15:801][295]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.05.07-01.50.15:801][295]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.05.07-01.50.15:805][295]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.05.07-01.50.15:881][295]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.05.07-01.50.15:883][295]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.05.07-01.50.15:884][295]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.05.07-01.50.15:884][295]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.05.07-01.50.15:884][295]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.05.07-01.50.17:821][295]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.05.07-01.50.17:822][295]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.05.07-01.50.17:822][295]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.05.07-01.50.17:822][295]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.05.07-01.50.17:822][295]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.05.07-01.50.17:822][295]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.05.07-01.50.17:823][295]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.05.07-01.50.17:839][295]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.05.07-01.50.17:844][295]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.05.07-01.50.17:846][295]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.05.07-01.50.17:847][295]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.05.07-01.50.17:847][295]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.05.07-01.50.17:863][295]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.05.07-01.50.17:863][295]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.05.07-01.50.17:864][295]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.05.07-01.50.17:864][295]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.05.07-01.50.17:865][295]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.05.07-01.50.17:884][295]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.05.07-01.50.17:895][295]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.05.07-01.50.17:896][295]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.05.07-01.50.17:899][295]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.05.07-01.50.17:900][295]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.05.07-01.50.17:900][295]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.05.07-01.50.17:901][295]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.05.07-01.50.17:936][295]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.05.07-01.50.17:937][295]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.05.07-01.50.17:938][295]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.05.07-01.50.17:997][295]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.05.07-01.50.17:997][295]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.05.07-01.50.18:031][295]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.05.07-01.50.18:031][295]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.05.07-01.50.18:033][295]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.05.07-01.50.18:079][295]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.05.07-01.50.18:079][295]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.05.07-01.50.18:079][295]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.05.07-01.50.18:324][295]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.05.07-01.50.18:324][295]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.05.07-01.50.18:337][295]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.05.07-01.50.18:338][295]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.05.07-01.50.18:618][295]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.05.07-01.50.18:619][295]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.05.07-01.50.18:619][295]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.05.07-01.50.19:204][295]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.05.07-01.50.19:205][295]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.05.07-01.50.19:278][295]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.05.07-01.50.19:278][295]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.05.07-01.50.19:280][295]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.05.07-01.50.19:280][295]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.05.07-01.50.19:280][295]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.05.07-01.50.19:281][295]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.05.07-01.50.19:326][295]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.05.07-01.50.19:326][295]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.05.07-01.50.19:326][295]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.05.07-01.50.19:326][295]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.05.07-01.50.19:326][295]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.05.07-01.50.19:326][295]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.05.07-01.50.19:326][295]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.05.07-01.50.19:327][295]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.05.07-01.50.19:327][295]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.05.07-01.50.19:328][295]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.05.07-01.50.19:328][295]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.05.07-01.50.19:401][295]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.05.07-01.50.19:612][295]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.05.07-01.50.19:613][295]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.05.07-01.50.19:613][295]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.05.07-01.50.19:614][295]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.05.07-01.50.19:614][295]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.05.07-01.50.19:615][295]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.05.07-01.50.19:615][295]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.05.07-01.50.19:615][295]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.05.07-01.50.19:615][295]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.05.07-01.50.19:615][295]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.05.07-01.50.19:615][295]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.05.07-01.50.19:615][295]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.05.07-01.50.19:616][295]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.05.07-01.50.19:616][295]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.05.07-01.50.19:616][295]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.05.07-01.50.19:616][295]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.05.07-01.50.19:616][295]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.05.07-01.50.19:616][295]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.05.07-01.50.19:616][295]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.05.07-01.50.19:620][295]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.05.07-01.50.19:620][295]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.05.07-01.50.19:621][295]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.05.07-01.50.19:621][295]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.05.07-01.50.19:621][295]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.05.07-01.50.19:621][295]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.05.07-01.50.19:621][295]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.05.07-01.50.19:621][295]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.05.07-01.50.19:622][295]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.05.07-01.50.19:622][295]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.05.07-01.50.19:622][295]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.05.07-01.50.19:623][295]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.05.07-01.50.19:623][295]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.05.07-01.50.19:623][295]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.05.07-01.50.19:623][295]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.05.07-01.50.19:624][295]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.05.07-01.50.19:625][295]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.05.07-01.50.19:625][295]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.05.07-01.50.19:747][295]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.05.07-01.50.19:748][295]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.05.07-01.50.19:754][295]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.05.07-01.50.19:755][295]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.05.07-01.50.19:755][295]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.05.07-01.50.19:755][295]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.05.07-01.50.19:756][295]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.05.07-01.50.19:773][295]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.05.07-01.50.19:773][295]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.05.07-01.50.19:775][295]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.05.07-01.50.19:776][295]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.05.07-01.50.19:779][295]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.05.07-01.50.19:809][295]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.05.07-01.50.19:809][295]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.05.07-01.50.19:810][295]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.05.07-01.50.19:810][295]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.05.07-01.50.19:811][295]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.05.07-01.50.19:811][295]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.05.07-01.50.19:811][295]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.05.07-01.50.19:811][295]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.05.07-01.50.19:812][295]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.05.07-01.50.19:814][295]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.05.07-01.50.19:814][295]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.05.07-01.50.19:814][295]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.05.07-01.50.19:814][295]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.05.07-01.50.19:815][295]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.05.07-01.50.19:815][295]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.05.07-01.50.19:916][295]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.05.07-01.50.20:018][295]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.05.07-01.50.20:018][295]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.05.07-01.50.20:034][295]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.07-01.50.20:034][295]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.05.07-01.50.20:034][295]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.05.07-01.50.20:034][295]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.05.07-01.50.20:035][295]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.05.07-01.50.20:037][295]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.05.07-01.50.20:037][295]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.05.07-01.50.20:038][295]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.05.07-01.50.20:047][295]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.07-01.50.20:048][295]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.05.07-01.50.20:048][295]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.05.07-01.50.20:049][295]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.05.07-01.50.20:049][295]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.05.07-01.50.20:049][295]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.05.07-01.50.20:049][295]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.05.07-01.50.20:049][295]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.05.07-01.50.20:050][295]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.05.07-01.50.20:051][295]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.05.07-01.50.20:180][295]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.05.07-01.50.20:182][295]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.05.07-01.50.20:206][295]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.05.07-01.50.20:207][295]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.05.07-01.50.20:211][295]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.05.07-01.50.20:268][295]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.05.07-01.50.20:268][295]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.05.07-01.50.20:269][295]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.05.07-01.50.20:269][295]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.05.07-01.50.20:269][295]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.05.07-01.50.20:425][295]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.05.07-01.50.20:426][295]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.05.07-01.50.20:426][295]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.05.07-01.50.20:427][295]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.05.07-01.50.20:453][295]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.05.07-01.50.20:467][295]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.05.07-01.50.20:467][295]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.05.07-01.50.20:467][295]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.05.07-01.50.20:467][295]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.05.07-01.50.20:474][295]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.05.07-01.50.20:475][295]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.05.07-01.50.20:476][295]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.05.07-01.50.20:480][295]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.05.07-01.50.20:480][295]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.05.07-01.50.20:482][295]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.05.07-01.50.20:483][295]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.05.07-01.50.20:484][295]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.05.07-01.50.20:484][295]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.05.07-01.50.20:484][295]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.05.07-01.50.20:496][295]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.05.07-01.50.20:496][295]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.05.07-01.50.20:496][295]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.05.07-01.50.20:496][295]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.05.07-01.50.20:497][295]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.05.07-01.50.20:497][295]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.05.07-01.50.20:497][295]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.05.07-01.50.20:498][295]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.05.07-01.50.20:498][295]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.05.07-01.50.20:498][295]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.05.07-01.50.20:498][295]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.05.07-01.50.20:500][295]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.05.07-01.50.20:501][295]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.05.07-01.50.20:502][295]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.05.07-01.50.20:765][295]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.05.07-01.50.20:765][295]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.05.07-01.50.20:765][295]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.05.07-01.50.20:766][295]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.05.07-01.50.20:767][295]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.05.07-01.50.20:767][295]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.05.07-01.50.20:768][295]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.05.07-01.50.20:770][295]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.05.07-01.50.20:812][295]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.05.07-01.50.20:813][295]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.05.07-01.50.20:813][295]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.05.07-01.50.20:813][295]LogDerivedDataCache: Shutdown
+[2020.05.07-01.50.20:813][295]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.05.07-01.50.20:836][295]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.05.07-01.50.20:949][295]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.05.07-01.50.20:950][295]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.05.07-01.50.20:950][295]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.05.07-01.50.20:951][295]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.05.07-01.50.20:957][295]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.05.07-01.50.20:964][295]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.05.07-01.50.20:964][295]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.05.07-01.50.20:965][295]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.05.07-01.50.20:991][295]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.05.07-01.50.21:025][295]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.05.07-01.50.21:078][295]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.05.07-01.50.21:078][295]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.05.07-01.50.21:126][295]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.05.07-01.50.21:148][295]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.05.07-01.50.21:148][295]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.05.07-01.50.21:149][295]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.05.07-01.50.21:149][295]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.05.07-01.50.21:149][295]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.05.07-01.50.21:150][295]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.05.07-01.50.21:150][295]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.05.07-01.50.21:660][295]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.05.07-01.50.21:912][295]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.05.07-01.50.21:912][295]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.05.07-01.50.21:913][295]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.05.07-01.50.21:913][295]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.05.07-01.50.21:913][295]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.05.07-01.50.21:914][295]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.05.07-01.50.21:914][295]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.05.07-01.50.21:914][295]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.05.07-01.50.22:058][295]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.05.07-01.50.23:057][295]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.05.07-01.50.23:057][295]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.05.07-01.50.23:057][295]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.05.07-01.50.23:057][295]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.05.07-01.50.23:140][295]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.05.07-01.50.23:140][295]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.05.07-01.50.23:142][295]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.05.07-01.50.23:142][295]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.05.07-01.50.23:143][295]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.05.07-01.50.23:143][295]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.05.07-01.50.23:144][295]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.05.07-01.50.23:144][295]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.05.07-01.50.23:144][295]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.05.07-01.50.23:145][295]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.07-01.50.23:145][295]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.05.07-01.50.23:146][295]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.05.07-01.50.23:146][295]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.05.07-01.50.23:146][295]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.05.07-01.50.23:146][295]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.05.07-01.50.23:148][295]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.05.07-01.50.23:150][295]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.05.07-01.50.23:246][295]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.05.07-01.50.23:246][295]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.07-01.50.23:246][295]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B53E60ED7-4F40-BE2D-6D1C-51AFBB9CA1C2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a1d0e0cb4fd5f5380c3048bd4f19a025%7Cac34117f08b7496cb1bebd74c8414edf%7C9de714f9-0141-408e-b518-c504470e9816&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.07-01.50.23:262][295]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.05.07-01.50.23:359][295]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.05.07-01.50.23:364][295]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.05.07-01.50.23:365][295]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.05.07-01.50.23:365][295]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.07-01.50.23:365][295]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.07-01.50.23:366][295]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.07-01.50.23:366][295]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.07-01.50.23:366][295]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.07-01.50.23:367][295]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.07-01.50.23:367][295]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.07-01.50.23:367][295]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.07-01.50.23:368][295]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.07-01.50.23:463][295]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.07-01.50.23:536][295]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.07-01.50.23:536][295]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.07-01.50.23:536][295]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.07-01.50.23:536][295]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.07-01.50.23:877][295]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.07-01.50.23:892][295]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.07-01.50.23:892][295]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.07-01.50.23:893][295]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.07-01.50.23:894][295]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.07-01.50.23:894][295]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.07-01.50.23:894][295]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.07-01.50.23:894][295]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.07-01.50.23:894][295]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.07-01.50.23:895][295]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.07-01.50.23:895][295]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.07-01.50.23:897][295]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.07-01.50.24:253][295]LogD3D11RHI: Shutdown
+[2020.05.07-01.50.24:254][295]LogD3D11RHI: CleanupD3DDevice
+[2020.05.07-01.50.25:135][295]LogExit: Exiting.
+[2020.05.07-01.50.26:261][295]Log file closed, 05/06/20 21:50:26
