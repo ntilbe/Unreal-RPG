@@ -1096,3 +1096,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.09-19.57.11:237][358]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.09-19.57.11:237][358]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.09-19.57.11:237][358]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.09-20.07.10:731][257]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.05.09-20.07.10:733][257]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.062
+[2020.05.09-20.07.10:734][257]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.05.09-20.07.10:782][257]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.05.09-20.07.10:782][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.05.09-20.07.10:872][257]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonCharacter_Auto36252AF6547F33A6BF571E99E2A916739.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2020.05.09-20.07.10:874][257]LogFileHelpers: Auto-saving content packages took 0.141
