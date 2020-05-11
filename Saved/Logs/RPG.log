@@ -1177,3 +1177,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.11-18.25.16:466][460]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.11-18.25.16:466][460]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.05.11-18.25.43:788][521]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD.RPGHUD
+[2020.05.11-18.35.15:478][527]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.05.11-18.35.15:483][527]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.071
+[2020.05.11-18.35.15:484][527]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1NoFill] ([1] browsable assets)...
+[2020.05.11-18.35.15:486][527]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1NoFill.Icon1NoFill]
+[2020.05.11-18.35.15:486][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1NoFill]
+[2020.05.11-18.35.15:501][527]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Icon1NoFill_Auto570919E754B3DBE237C143CA02F0659E5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1NoFill_Auto5.uasset'
+[2020.05.11-18.35.15:503][527]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2Fill] ([1] browsable assets)...
+[2020.05.11-18.35.15:505][527]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2Fill.Icon2Fill]
+[2020.05.11-18.35.15:505][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2Fill]
+[2020.05.11-18.35.15:518][527]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Icon2Fill_Auto533C9D6D94D7B1F3F5B43A096D603F670.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2Fill_Auto5.uasset'
+[2020.05.11-18.35.15:520][527]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2NoFill] ([1] browsable assets)...
+[2020.05.11-18.35.15:521][527]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2NoFill.Icon2NoFill]
+[2020.05.11-18.35.15:521][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2NoFill]
+[2020.05.11-18.35.15:536][527]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Icon2NoFill_Auto53FA4FE62442D492737F04BB2398AAE2B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2NoFill_Auto5.uasset'
+[2020.05.11-18.35.15:537][527]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1Fill] ([1] browsable assets)...
+[2020.05.11-18.35.15:539][527]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1Fill.Icon1Fill]
+[2020.05.11-18.35.15:539][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1Fill]
+[2020.05.11-18.35.15:552][527]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Icon1Fill_Auto561F8693B45E867A84ECFC39170BD51F5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1Fill_Auto5.uasset'
+[2020.05.11-18.35.15:553][527]LogFileHelpers: Auto-saving content packages took 0.070
+[2020.05.11-18.39.44:148][327]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.11-18.39.44:152][327]LogSlate: Window 'RPGHUD' being destroyed
+[2020.05.11-18.39.44:160][327]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-18.39.44:161][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-18.39.44:170][327]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-18.39.44:170][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
