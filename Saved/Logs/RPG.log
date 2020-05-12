@@ -8039,3 +8039,7 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.12-16.55.19:334][897]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.12-16.55.19:334][897]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.12-16.55.19:334][897]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.12-16.59.59:348][826]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/SwordCharacter/Sword_AnimBP.Sword_AnimBP
+[2020.05.12-16.59.59:367][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.12-16.59.59:945][826]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.12-17.00.00:718][826]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
