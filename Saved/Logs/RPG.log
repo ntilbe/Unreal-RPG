@@ -8249,3 +8249,229 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.12-17.42.15:944][659]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.12-17.42.15:944][659]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.12-17.42.15:944][659]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.12-17.42.44:534][834]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Sword_Character.Sword_Character
+[2020.05.12-17.43.09:434][547]BlueprintLog: New page: Compile Sword_Character
+[2020.05.12-17.43.09:950][547]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.05.12-17.43.10:762][563]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Sword_CharacterFB1FF1714180915B3FC0A381DCE231E7.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Sword_Character.uasset'
+[2020.05.12-17.43.10:797][563]AssetCheck: New page: Asset Save: Sword_Character
+[2020.05.12-17.43.10:797][563]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Sword_Character.Sword_Character
+[2020.05.12-17.44.54:789][915]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Sword_CharacterF194D90242EA285600DF839063BA5CF0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Sword_Character.uasset'
+[2020.05.12-17.44.54:826][915]AssetCheck: New page: Asset Save: Sword_Character
+[2020.05.12-17.44.54:826][915]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Sword_Character.Sword_Character
+[2020.05.12-17.44.56:247][975]BlueprintLog: New page: Compile Sword_Character
+[2020.05.12-17.44.56:794][975]LogUObjectHash: Compacting FUObjectHashTables data took   8.88ms
+[2020.05.12-17.45.31:506][375]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Sword_Character078CAE884F2D54617AF29DBD1486059E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Sword_Character.uasset'
+[2020.05.12-17.45.31:543][375]AssetCheck: New page: Asset Save: Sword_Character
+[2020.05.12-17.45.31:543][375]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Sword_Character.Sword_Character
+[2020.05.12-17.45.33:016][434]LogSlate: Window 'Sword_Character' being destroyed
+[2020.05.12-17.45.33:022][434]LogSlate: Window 'Sword_Character' being destroyed
+[2020.05.12-17.45.33:023][434]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-17.45.33:024][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-18.03.46:802][841]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Sword_Character.Sword_Character
+[2020.05.12-18.32.29:217][ 57]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Sword_CharacterB241A9654A124D0C98BB87AD09B46A82.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Sword_Character.uasset'
+[2020.05.12-18.32.29:241][ 57]AssetCheck: New page: Asset Save: Sword_Character
+[2020.05.12-18.32.29:241][ 57]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Sword_Character.Sword_Character
+[2020.05.12-18.32.30:657][104]LogSlate: Window 'Sword_Character' being destroyed
+[2020.05.12-18.32.30:663][104]LogSlate: Window 'Sword_Character' being destroyed
+[2020.05.12-18.32.30:665][104]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-18.32.30:665][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-18.32.42:549][572]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2020.05.12-18.32.42:744][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RPGHUD1" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD1.uasset" SILENT=true
+[2020.05.12-18.32.42:792][572]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGHUD151024D15445FB163FD3E27A8712FD95F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGHUD1.uasset'
+[2020.05.12-18.32.43:266][572]AssetCheck: New page: Asset Save: RPGHUD1
+[2020.05.12-18.32.43:266][572]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/RPGHUD1.RPGHUD1
+[2020.05.12-18.32.59:461][156]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2020.05.12-18.32.59:478][156]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MeleeHUD.SKEL_MeleeHUD_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RPGHUD1.PackageMetaData'
+[2020.05.12-18.32.59:478][156]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RPGHUD1.PackageMetaData'
+[2020.05.12-18.32.59:577][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset" SILENT=true
+[2020.05.12-18.32.59:639][156]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeHUD2AD8E2BE4FB78E46AAB85B9FB452D9EB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset'
+[2020.05.12-18.33.00:591][156]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2020.05.12-18.33.00:668][156]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.05.12-18.33.00:727][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.05.12-18.33.00:909][156]SourceControl: rm 'Content/ThirdPersonBP/Blueprints/RPGHUD1.uasset'
+[2020.05.12-18.33.01:062][156]AssetCheck: New page: Asset Save: MeleeHUD
+[2020.05.12-18.33.01:062][156]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.33.06:919][260]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.05.12-18.33.07:430][260]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMapB912E50E4ECDE70D1D7262B3A1840C29.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.12-18.33.07:791][260]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltData9109CACB4671BC1BBE90EBB1309F8D58.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.12-18.33.07:824][260]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-18.33.07:824][260]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.12-18.33.07:824][260]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.12-18.33.17:045][843]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.39.30:285][262]BlueprintLog: New page: Compile MeleeHUD
+[2020.05.12-18.39.30:371][262]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2020.05.12-18.39.31:134][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset" SILENT=true
+[2020.05.12-18.39.31:208][291]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeHUDB717F2B248AA76ECEE4ED9AE949CDDBE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset'
+[2020.05.12-18.39.31:245][291]AssetCheck: New page: Asset Save: MeleeHUD
+[2020.05.12-18.39.31:245][291]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.43.52:332][909]BlueprintLog: New page: Compile MeleeHUD
+[2020.05.12-18.43.52:433][909]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2020.05.12-18.43.53:154][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset" SILENT=true
+[2020.05.12-18.43.53:219][934]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeHUD2574F5C742C0320DCE17449B95555F1B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset'
+[2020.05.12-18.43.53:257][934]AssetCheck: New page: Asset Save: MeleeHUD
+[2020.05.12-18.43.53:257][934]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.44.38:984][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2020.05.12-18.44.38:987][ 73]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.075
+[2020.05.12-18.44.38:987][ 73]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RPGHUD] ([1] browsable assets)...
+[2020.05.12-18.44.38:987][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RPGHUD]
+[2020.05.12-18.44.39:077][ 73]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGHUD_Auto6D209592D4961850B7C57CCA41C2FA403.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RPGHUD_Auto6.uasset'
+[2020.05.12-18.44.39:079][ 73]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HealthPickup] ([1] browsable assets)...
+[2020.05.12-18.44.39:079][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HealthPickup]
+[2020.05.12-18.44.39:149][ 73]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/HealthPickup_Auto645CD35EA400C3052B142E8B011397695.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HealthPickup_Auto6.uasset'
+[2020.05.12-18.44.39:150][ 73]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2020.05.12-18.44.39:150][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2020.05.12-18.44.39:199][ 73]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonGameMode_Auto64D7158784112667534DBE09933520D83.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto6.uasset'
+[2020.05.12-18.44.39:200][ 73]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/LootPickup] ([1] browsable assets)...
+[2020.05.12-18.44.39:224][ 73]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/LootPickup.LootPickup]
+[2020.05.12-18.44.39:224][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/LootPickup]
+[2020.05.12-18.44.39:305][ 73]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/LootPickup_Auto6569295634077890524F672BB0A05814E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/LootPickup_Auto6.uasset'
+[2020.05.12-18.44.39:307][ 73]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MagicCharacter] ([1] browsable assets)...
+[2020.05.12-18.44.39:331][ 73]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/MagicCharacter.MagicCharacter]
+[2020.05.12-18.44.39:331][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MagicCharacter]
+[2020.05.12-18.44.39:499][ 73]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MagicCharacter_Auto667792A24498B9D841877BCAC5DBB63B7.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MagicCharacter_Auto6.uasset'
+[2020.05.12-18.44.39:502][ 73]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MeleeHUD] ([1] browsable assets)...
+[2020.05.12-18.44.39:502][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MeleeHUD]
+[2020.05.12-18.44.39:579][ 73]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeHUD_Auto65B5B28A1452B0C4EDA9790B5D29073D9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MeleeHUD_Auto6.uasset'
+[2020.05.12-18.44.39:580][ 73]LogFileHelpers: Auto-saving content packages took 0.593
+[2020.05.12-18.46.15:112][590]BlueprintLog: New page: Compile MeleeHUD
+[2020.05.12-18.46.15:200][590]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2020.05.12-18.46.16:056][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset" SILENT=true
+[2020.05.12-18.46.16:122][621]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeHUD2B6593174C6A0AF5D9C4498FE83E283D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset'
+[2020.05.12-18.46.16:157][621]AssetCheck: New page: Asset Save: MeleeHUD
+[2020.05.12-18.46.16:157][621]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.46.31:457][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset" SILENT=true
+[2020.05.12-18.46.31:521][428]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeHUD18D635A344748F5E46FC68A262127E0F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset'
+[2020.05.12-18.46.31:544][428]AssetCheck: New page: Asset Save: MeleeHUD
+[2020.05.12-18.46.31:544][428]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.47.49:347][ 76]BlueprintLog: New page: Compile MeleeHUD
+[2020.05.12-18.47.49:437][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2020.05.12-18.47.50:125][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset" SILENT=true
+[2020.05.12-18.47.50:190][ 99]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeHUD5F42F90448D3DECEA20A6AA5268215D8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset'
+[2020.05.12-18.47.50:225][ 99]AssetCheck: New page: Asset Save: MeleeHUD
+[2020.05.12-18.47.50:225][ 99]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.48.10:641][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset" SILENT=true
+[2020.05.12-18.48.10:704][492]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeHUDDE56C9D445FA10346CE9A8A57A4F0A71.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset'
+[2020.05.12-18.48.10:741][492]AssetCheck: New page: Asset Save: MeleeHUD
+[2020.05.12-18.48.10:741][492]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.48.23:741][245]LogSlate: Window 'MeleeHUD' being destroyed
+[2020.05.12-18.48.23:747][245]LogSlate: Window 'MeleeHUD' being destroyed
+[2020.05.12-18.48.23:768][245]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-18.48.23:768][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-18.48.23:805][245]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-18.48.23:805][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-18.55.59:849][351]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.56.21:886][949]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.uasset' is outside repository at 'C:/Users/User/Documents/Unreal Projects/RPG'
+[2020.05.12-18.56.21:886][949]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset' is outside repository at 'C:/Users/User/Documents/Unreal Projects/RPG'
+[2020.05.12-18.57.08:435][665]LogSlate: Window 'MeleeHUD' being destroyed
+[2020.05.12-18.57.08:440][665]LogSlate: Window 'MeleeHUD' being destroyed
+[2020.05.12-18.57.08:452][665]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-18.57.08:452][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-18.57.08:500][665]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-18.57.08:500][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-18.57.25:914][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\RPGAssets\HUDAssets\MeleeIcon1Fill.png)
+[2020.05.12-18.57.25:939][ 77]LogTexture: Display: Building textures: MeleeIcon1Fill (BGRA8, 61X61)
+[2020.05.12-18.57.26:063][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\RPGAssets\HUDAssets\MeleeIcon1NoFill.png)
+[2020.05.12-18.57.26:068][ 77]LogTexture: Display: Building textures: MeleeIcon1NoFill (BGRA8, 61X61)
+[2020.05.12-18.57.52:533][156]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2020.05.12-18.57.52:542][156]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.092
+[2020.05.12-18.57.52:543][156]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1Fill] ([1] browsable assets)...
+[2020.05.12-18.57.52:545][156]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1Fill.MeleeIcon1Fill]
+[2020.05.12-18.57.52:545][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1Fill]
+[2020.05.12-18.57.52:560][156]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeIcon1Fill_Auto7B71226C14A3795D0187FBA8DAF764D20.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1Fill_Auto7.uasset'
+[2020.05.12-18.57.52:561][156]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1NoFill] ([1] browsable assets)...
+[2020.05.12-18.57.52:564][156]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1NoFill.MeleeIcon1NoFill]
+[2020.05.12-18.57.52:564][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1NoFill]
+[2020.05.12-18.57.52:578][156]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeIcon1NoFill_Auto7EF7AED54445D2F9737B0D49400920B17.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1NoFill_Auto7.uasset'
+[2020.05.12-18.57.52:580][156]LogFileHelpers: Auto-saving content packages took 0.038
+[2020.05.12-18.58.07:169][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.05.12-18.58.07:716][199]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap67D949524D15DE7E24334CB2B74A164D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.12-18.58.08:135][199]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltData6FB4042C44EEC332774F10BA4FEB27DD.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.12-18.58.08:172][199]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-18.58.08:172][199]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.12-18.58.08:172][199]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.12-18.58.15:167][397]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.58.19:396][543]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.uasset' is outside repository at 'C:/Users/User/Documents/Unreal Projects/RPG'
+[2020.05.12-18.58.19:396][543]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset' is outside repository at 'C:/Users/User/Documents/Unreal Projects/RPG'
+[2020.05.12-18.58.36:440][887]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/User/Documents/Unreal Projects/RPG'
+[2020.05.12-18.59.04:968][371]BlueprintLog: New page: Compile MeleeHUD
+[2020.05.12-18.59.05:056][371]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2020.05.12-18.59.09:921][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeHUD" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset" SILENT=true
+[2020.05.12-18.59.10:011][476]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/MeleeHUDAAAC00D047B716CB5938FB85CB10D25F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset'
+[2020.05.12-18.59.10:051][476]AssetCheck: New page: Asset Save: MeleeHUD
+[2020.05.12-18.59.10:052][476]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MeleeHUD.MeleeHUD
+[2020.05.12-18.59.12:641][580]LogSlate: Window 'MeleeHUD' being destroyed
+[2020.05.12-18.59.12:647][580]LogSlate: Window 'MeleeHUD' being destroyed
+[2020.05.12-18.59.12:660][580]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-18.59.12:660][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-18.59.12:666][580]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-18.59.12:666][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-18.59.21:103][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Sword_Character.Sword_Character
+[2020.05.12-18.59.34:308][476]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-18.59.42:789][792]BlueprintLog: New page: Compile Sword_Character
+[2020.05.12-18.59.43:354][792]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2020.05.12-18.59.44:486][812]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Sword_CharacterB29EE5974E124A1700BB81950107B1F2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Sword_Character.uasset'
+[2020.05.12-18.59.44:522][812]AssetCheck: New page: Asset Save: Sword_Character
+[2020.05.12-18.59.44:522][812]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Sword_Character.Sword_Character
+[2020.05.12-19.00.00:536][882]LogSlate: Window 'Sword_Character' being destroyed
+[2020.05.12-19.00.00:540][882]LogSlate: Window 'Sword_Character' being destroyed
+[2020.05.12-19.00.00:542][882]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-19.00.00:542][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-19.00.01:903][964]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.12-19.00.01:935][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.12-19.00.01:935][964]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.12-19.00.01:957][964]LogPlayLevel: [PlayLevel] Compiling MagicCharacter before play...
+[2020.05.12-19.00.02:446][964]LogPlayLevel: [PlayLevel] Compiling HealthPickup before play...
+[2020.05.12-19.00.02:897][964]LogPlayLevel: [PlayLevel] Compiling LootPickup before play...
+[2020.05.12-19.00.03:321][964]LogPlayLevel: [PlayLevel] Compiling RPGHUD before play...
+[2020.05.12-19.00.03:434][964]LogUObjectHash: Compacting FUObjectHashTables data took   8.62ms
+[2020.05.12-19.00.03:438][964]LogPlayLevel: PlayLevel: Blueprint regeneration took 1503 ms (4 blueprints)
+[2020.05.12-19.00.03:438][964]PIE: New page: PIE session: ThirdPersonExampleMap (May 12, 2020, 11:00:03 AM)
+[2020.05.12-19.00.03:443][964]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.12-19.00.03:467][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023947s)
+[2020.05.12-19.00.03:469][964]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.12-19.00.03:470][964]LogPlayLevel: PIE: World Init took: (0.002529s)
+[2020.05.12-19.00.03:470][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026825s)
+[2020.05.12-19.00.03:531][964]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.05.12-19.00.03:533][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.12-19.00.03:533][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.12-19.00.03:533][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.12-19.00.03:533][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.12-19.00.03:533][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.12-19.00.03:533][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.12-19.00.03:533][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.12-19.00.03:533][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.12-19.00.03:534][964]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.12-19.00.03:534][964]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.12-19.00.03:562][964]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-19.00.03:562][964]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.05.12-19.00.03:562][964]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-19.00.03:562][964]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-19.00.03:562][964]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.12-19.00.03:562][964]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.12-19.00.03:562][964]LogAudioMixer: Display: Channel Order:
+[2020.05.12-19.00.03:562][964]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-19.00.03:562][964]LogAudioMixer: Display: 1: FrontRight
+[2020.05.12-19.00.03:576][964]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.05.12-19.00.03:580][964]LogInit: FAudioDevice initialized.
+[2020.05.12-19.00.03:594][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.12-19.00.03:601][964]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.12-15.00.03
+[2020.05.12-19.00.03:602][964]LogWorld: Bringing up level for play took: 0.007347
+[2020.05.12-19.00.03:603][964]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2020.05.12-19.00.03:617][964]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.839
+[2020.05.12-19.00.03:617][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.12-19.00.04:028][979]LogBlueprintUserMessages: [SimpleAI2_2] Hit
+[2020.05.12-19.00.10:307][445]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-19.00.10:307][445]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-19.00.10:307][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.12-19.00.10:308][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-19.00.10:308][445]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.12-19.00.10:308][445]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-19.00.10:308][445]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-19.00.10:309][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-19.00.10:321][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-19.00.10:321][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.12-19.00.10:332][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-19.00.10:395][445]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-19.00.10:399][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-19.00.10:407][445]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.05.12-19.00.10:444][446]LogPlayLevel: Display: Destroying online subsystem :Context_135
