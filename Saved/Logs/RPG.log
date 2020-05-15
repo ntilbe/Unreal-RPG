@@ -2923,3 +2923,99 @@ Script Stack (0 frames):
 [2020.05.15-20.54.17:213][555]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.15-20.54.17:213][555]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.05.15-20.54.17:214][555]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.15-20.55.11:566][748]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.05.15-20.56.00:306][270]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2020.05.15-20.56.00:819][270]LogUObjectHash: Compacting FUObjectHashTables data took   8.54ms
+[2020.05.15-20.56.01:452][283]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonGameMode705443E842AD9F6E68CE03AFFB2A59DC.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.05.15-20.56.01:480][283]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2020.05.15-20.56.01:481][283]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.05.15-20.56.04:144][413]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.05.15-20.56.04:150][413]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.05.15-20.56.04:151][413]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-20.56.04:151][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-20.56.07:233][566]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Class_Select.Class_Select
+[2020.05.15-20.57.24:770][171]BlueprintLog: New page: Compile Class_Select
+[2020.05.15-20.57.24:862][171]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
+[2020.05.15-20.57.25:574][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Class_SelectC3527A564CE134AA5BCABE9701991A78.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Class_Select.uasset'
+[2020.05.15-20.57.25:601][189]AssetCheck: New page: Asset Save: Class_Select
+[2020.05.15-20.57.25:601][189]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Class_Select.Class_Select
+[2020.05.15-20.59.04:694][878]BlueprintLog: New page: Compile Class_Select
+[2020.05.15-20.59.04:780][878]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2020.05.15-20.59.05:599][905]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Class_Select5B18B67C46B556532357208AEFA41DFF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Class_Select.uasset'
+[2020.05.15-20.59.05:625][905]AssetCheck: New page: Asset Save: Class_Select
+[2020.05.15-20.59.05:625][905]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Class_Select.Class_Select
+[2020.05.15-20.59.51:037][783]BlueprintLog: New page: Compile Class_Select
+[2020.05.15-20.59.51:127][783]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2020.05.15-20.59.51:856][806]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Class_Select881F162B43E3275E0F56D8AE5012E27A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Class_Select.uasset'
+[2020.05.15-20.59.51:882][806]AssetCheck: New page: Asset Save: Class_Select
+[2020.05.15-20.59.51:882][806]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Class_Select.Class_Select
+[2020.05.15-21.00.01:446][236]BlueprintLog: New page: Compile Class_Select
+[2020.05.15-21.00.01:538][236]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2020.05.15-21.00.02:500][272]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Class_Select327B8A064EF34C241C77FE8A696E25A6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/Class_Select.uasset'
+[2020.05.15-21.00.02:526][272]AssetCheck: New page: Asset Save: Class_Select
+[2020.05.15-21.00.02:526][272]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Class_Select.Class_Select
+[2020.05.15-21.00.16:786][341]LogSlate: Window 'Class_Select' being destroyed
+[2020.05.15-21.00.16:803][341]LogSlate: Window 'Class_Select' being destroyed
+[2020.05.15-21.00.16:814][341]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-21.00.16:814][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-21.00.16:852][341]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-21.00.16:852][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-21.00.22:638][605]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/LootBag.LootBag
+[2020.05.15-21.11.34:314][892]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.05.15-21.11.56:040][505]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2020.05.15-21.11.56:581][505]LogUObjectHash: Compacting FUObjectHashTables data took   9.08ms
+[2020.05.15-21.11.57:620][539]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonGameMode53D374664234B870ED9FA7A381A81510.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.05.15-21.11.57:646][539]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2020.05.15-21.11.57:646][539]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.05.15-21.13.02:442][158]BlueprintLog: New page: Compile LootBag
+[2020.05.15-21.13.02:527][158]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2020.05.15-21.13.03:232][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LootBag" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/LootBag.uasset" SILENT=true
+[2020.05.15-21.13.03:278][183]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/LootBag3DA59A044B77CB1D7BFA5B8E760DB33A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/LootBag.uasset'
+[2020.05.15-21.13.03:304][183]AssetCheck: New page: Asset Save: LootBag
+[2020.05.15-21.13.03:304][183]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/LootBag.LootBag
+[2020.05.15-21.16.24:883][223]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2020.05.15-21.16.24:886][223]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.075
+[2020.05.15-21.16.24:887][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/LootBag] ([1] browsable assets)...
+[2020.05.15-21.16.24:887][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/LootBag]
+[2020.05.15-21.16.24:927][223]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/LootBag_Auto0CD4BF1854A63C3D22ED6EDAE89811F3B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/LootBag_Auto0.uasset'
+[2020.05.15-21.16.24:929][223]LogFileHelpers: Auto-saving content packages took 0.043
+[2020.05.15-21.17.36:646][670]BlueprintLog: New page: Compile LootBag
+[2020.05.15-21.17.36:655][670]LogBlueprint: Error: [Compiler LootBag] This blueprint (self) is not a MagicCharacter_C, therefore ' Target ' must have a connection.
+[2020.05.15-21.17.36:656][670]LogBlueprint: Error: [Compiler LootBag] The type of  Object  is undetermined.  Connect something to  Cast To Sword_Character  to imply a specific type.
+[2020.05.15-21.17.36:656][670]LogBlueprint: Error: [Compiler LootBag] The type of  Object  is undetermined.  Connect something to  Cast To MagicCharacter  to imply a specific type.
+[2020.05.15-21.17.36:656][670]LogBlueprint: Error: [Compiler LootBag] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.05.15-21.17.36:657][670]LogBlueprint: Error: [Compiler LootBag] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.05.15-21.17.36:657][670]LogBlueprint: Error: [Compiler LootBag] Variable node  Set Currency  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.05.15-21.17.36:734][670]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2020.05.15-21.17.37:302][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LootBag" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/LootBag.uasset" SILENT=true
+[2020.05.15-21.17.37:347][686]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/LootBag27C91C8C4C3A1EFCC3B30EBB7C77B503.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/LootBag.uasset'
+[2020.05.15-21.17.37:375][686]AssetCheck: New page: Asset Save: LootBag
+[2020.05.15-21.17.37:375][686]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/LootBag.LootBag
+[2020.05.15-21.18.11:402][891]BlueprintLog: New page: Compile LootBag
+[2020.05.15-21.18.11:413][891]LogBlueprint: Error: [Compiler LootBag] This blueprint (self) is not a MagicCharacter_C, therefore ' Target ' must have a connection.
+[2020.05.15-21.18.11:413][891]LogBlueprint: Error: [Compiler LootBag] Variable node  Set Currency  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.05.15-21.18.11:489][891]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2020.05.15-21.18.13:102][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LootBag" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/LootBag.uasset" SILENT=true
+[2020.05.15-21.18.13:155][954]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/LootBagD6C21CED47039BAC186E19A9E51D97E3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/LootBag.uasset'
+[2020.05.15-21.18.13:182][954]AssetCheck: New page: Asset Save: LootBag
+[2020.05.15-21.18.13:182][954]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/LootBag.LootBag
+[2020.05.15-21.18.42:900][393]BlueprintLog: New page: Compile LootBag
+[2020.05.15-21.18.42:993][393]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2020.05.15-21.18.43:702][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LootBag" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/LootBag.uasset" SILENT=true
+[2020.05.15-21.18.43:746][416]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/LootBag5DE9A7F94557A6EC7D45BA820F3AB737.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/LootBag.uasset'
+[2020.05.15-21.18.43:772][416]AssetCheck: New page: Asset Save: LootBag
+[2020.05.15-21.18.43:772][416]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/LootBag.LootBag
+[2020.05.15-21.18.56:388][621]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.05.15-21.18.56:395][621]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.05.15-21.18.56:405][621]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-21.18.56:405][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-21.18.56:412][621]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-21.18.56:412][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-21.18.56:531][621]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-21.18.56:531][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-21.19.17:018][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2020.05.15-21.19.17:550][ 34]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap188A9DB248727F29597EB8A024BD8138.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.15-21.19.17:918][ 34]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltData53B14DFC46F9FB1AE751D2B5E2A6D819.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.15-21.19.17:953][ 34]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.15-21.19.17:953][ 34]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.15-21.19.17:953][ 34]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
