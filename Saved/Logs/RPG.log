@@ -608,3 +608,120 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.15-13.07.34:077][  0]LogSlate: Took 0.009303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.05.15-13.07.35:434][ 20]LogAssetRegistry: Asset discovery search completed in 21.4228 seconds
 [2020.05.15-13.07.35:441][ 20]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2020.05.15-13.49.17:057][ 31]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.15-13.49.26:363][ 31]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.15-13.58.15:475][ 11]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/RPGSaveGame.RPGSaveGame
+[2020.05.15-13.58.15:886][ 11]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2020.05.15-13.58.17:481][ 11]LogSlate: Took 0.009325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.15-13.58.57:679][519]LogSlate: Took 0.008687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.15-13.59.07:295][133]BlueprintLog: New page: Compile RPGSaveGame
+[2020.05.15-13.59.07:296][133]LogClass: Warning: Type mismatch in Experience of RPGSaveGame_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2020.05.15-13.59.07:296][133]LogClass: Warning: Type mismatch in MaxExperience of RPGSaveGame_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2020.05.15-13.59.07:296][133]LogClass: Warning: Type mismatch in Level of RPGSaveGame_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2020.05.15-13.59.07:369][133]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2020.05.15-13.59.08:077][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RPGSaveGame" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGSaveGame.uasset" SILENT=true
+[2020.05.15-13.59.08:142][165]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGSaveGame80BFD7DE483D0DA066C2F69318CE68D4.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGSaveGame.uasset'
+[2020.05.15-13.59.08:168][165]AssetCheck: New page: Asset Save: RPGSaveGame
+[2020.05.15-13.59.08:168][165]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/RPGSaveGame.RPGSaveGame
+[2020.05.15-14.39.27:561][665]BlueprintLog: New page: Compile RPGSaveGame
+[2020.05.15-14.39.27:636][665]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2020.05.15-14.39.29:357][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RPGSaveGame" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGSaveGame.uasset" SILENT=true
+[2020.05.15-14.39.29:404][759]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/RPGSaveGame5AB2820542DEBD514C54CFBB03402F7A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/RPGSaveGame.uasset'
+[2020.05.15-14.39.29:432][759]AssetCheck: New page: Asset Save: RPGSaveGame
+[2020.05.15-14.39.29:432][759]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/RPGSaveGame.RPGSaveGame
+[2020.05.15-14.39.32:159][923]LogSlate: Window 'RPGSaveGame' being destroyed
+[2020.05.15-14.39.32:165][923]LogSlate: Window 'RPGSaveGame' being destroyed
+[2020.05.15-14.39.32:211][923]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-14.39.32:211][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-14.39.37:962][213]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.05.15-15.36.52:892][545]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.15-15.38.30:463][747]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2020.05.15-15.38.31:123][747]LogUObjectHash: Compacting FUObjectHashTables data took  10.64ms
+[2020.05.15-15.38.32:354][801]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonGameModeD85304A54730E8710BB5928A2543F3A2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.05.15-15.38.32:383][801]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2020.05.15-15.38.32:384][801]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.05.15-15.40.56:659][226]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2020.05.15-15.40.57:154][226]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2020.05.15-15.40.57:893][252]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonGameMode6A75C1634DD37692044F31A0A7920260.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.05.15-15.40.57:916][252]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2020.05.15-15.40.57:916][252]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.05.15-15.44.26:805][107]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2020.05.15-15.44.27:317][107]LogUObjectHash: Compacting FUObjectHashTables data took   9.60ms
+[2020.05.15-15.44.28:639][162]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonGameMode5B10A1B7494885F7DFAAC98B73F5C949.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.05.15-15.44.28:663][162]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2020.05.15-15.44.28:663][162]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.05.15-15.53.00:195][296]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2020.05.15-15.53.00:196][296]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.075
+[2020.05.15-15.53.00:196][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2020.05.15-15.53.00:196][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2020.05.15-15.53.00:252][296]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonGameMode_Auto1CE4F82D04AC731167DA26FBB340FCDFA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset'
+[2020.05.15-15.53.00:254][296]LogFileHelpers: Auto-saving content packages took 0.059
+[2020.05.15-15.56.45:028][749]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2020.05.15-15.56.45:542][749]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2020.05.15-15.56.46:542][786]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonGameMode824F64C046D2F0C28BD6B3AAA241177B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.05.15-15.56.46:566][786]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2020.05.15-15.56.46:566][786]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.05.15-15.56.50:504][986]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.05.15-15.56.50:510][986]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.05.15-15.56.50:511][986]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-15.56.50:511][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-15.56.53:268][113]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2020.05.15-15.56.54:093][114]LogSlate: Took 0.011616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.15-15.57.37:634][981]LogUObjectArray: Warning: Invalid object index 6488181
+[2020.05.15-15.57.37:635][981]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.15-15.57.38:225][981]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.590 s
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: 
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: Stack: 
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ffeef8a7b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ffeef0b678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ffeef0c409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ffefbf7c5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ffefa00977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ffef9fc1647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff0b43b144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff0b62dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff0b4860b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff0b4646f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff0b458ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff296f4ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff296e242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff296f7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff296dec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff58fb5c0d USER32.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff58fb5602 USER32.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff296f8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ffef1446821 UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ff73874499d UE4Editor.exe!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ff73875c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ff73875c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ff73876ceae UE4Editor.exe!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007ff73876fcbe UE4Editor.exe!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff59497bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: [Callstack] 0x00007fff5a54ce51 ntdll.dll!UnknownFunction []
+[2020.05.15-15.57.38:225][981]LogOutputDevice: Error: 
+[2020.05.15-15.57.38:233][981]LogStats:                SubmitErrorReport -  0.000 s
+[2020.05.15-15.57.39:946][981]LogStats:                    SendNewReport -  1.712 s
+[2020.05.15-15.57.39:946][981]LogStats:             FDebug::EnsureFailed -  2.311 s
+[2020.05.15-15.57.39:946][981]LogUObjectArray: Warning: Invalid object index 6488181
+[2020.05.15-15.58.36:748][932]BlueprintLog: New page: Compile SimpleAI
+[2020.05.15-15.58.37:271][932]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2020.05.15-15.58.38:066][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2020.05.15-15.58.38:173][957]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/SimpleAIC739007E432338C250751EBC2A6D7366.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2020.05.15-15.58.38:197][957]AssetCheck: New page: Asset Save: SimpleAI
+[2020.05.15-15.58.38:197][957]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2020.05.15-15.58.44:859][294]LogSlate: Window 'SimpleAI' being destroyed
+[2020.05.15-15.58.44:864][294]LogSlate: Window 'SimpleAI' being destroyed
+[2020.05.15-15.58.44:865][294]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-15.58.44:865][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-16.01.59:013][902]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2020.05.15-16.01.59:540][902]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMapEF90FB5749BA0978F9E0C781FD631846.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.15-16.01.59:989][902]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/RPG/Saved/ThirdPersonExampleMap_BuiltData1E04DEBC4D99080E6E61A7BCB7EA4810.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/RPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.15-16.02.00:025][902]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.15-16.02.00:025][902]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.15-16.02.00:025][902]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
